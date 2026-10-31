@@ -42,7 +42,10 @@ def head(title, description, canonical, base=""):
     return f'''<!doctype html><html lang="zh-CN"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
       <title>{esc(title)}</title><meta name="description" content="{esc(description)}"><meta name="theme-color" content="#f7f8f4">
       <meta property="og:type" content="website"><meta property="og:title" content="{esc(title)}"><meta property="og:description" content="{esc(description)}">
-      <link rel="canonical" href="{safe_url(canonical)}"><link rel="icon" type="image/svg+xml" href="{base}assets/logo.svg"><link rel="stylesheet" href="{base}assets/style.css">
+      <meta property="og:url" content="{safe_url(canonical)}"><meta property="og:site_name" content="{esc(CFG['projectName'])}"><meta property="og:locale" content="zh_CN">
+      <meta property="og:image" content="{safe_url(CFG['siteUrl']+'assets/og-image.png')}"><meta property="og:image:width" content="1200"><meta property="og:image:height" content="630">
+      <meta name="twitter:card" content="summary_large_image"><meta name="twitter:title" content="{esc(title)}"><meta name="twitter:description" content="{esc(description)}"><meta name="twitter:image" content="{safe_url(CFG['siteUrl']+'assets/og-image.png')}"><meta name="twitter:creator" content="@AIPMAndy"><meta name="author" content="AI 酋长 Andy">
+      <link rel="canonical" href="{safe_url(canonical)}"><link rel="icon" type="image/svg+xml" href="{base}assets/logo.svg"><link rel="apple-touch-icon" href="{base}assets/apple-touch-icon.png"><link rel="stylesheet" href="{base}assets/style.css">
       </head><body>'''
 
 
@@ -65,7 +68,8 @@ def home():
     candidates=len(CREATORS)-complete
     ten=sum(1 for c in CREATORS if c['stage']=='千万级候选')
     cards='\n'.join(card(c) for c in CREATORS)
-    return head(CFG['projectName']+' | AI 酋长 Andy','以可追溯来源研究中文 X 创作者的真实收入、流量增长和商业模式。',CFG['siteUrl'])+nav(True)+f'''
+    site_ld=json.dumps({"@context":"https://schema.org","@type":"WebSite","name":CFG['projectName'],"url":CFG['siteUrl'],"inLanguage":"zh-CN","description":"中文 X 创作者商业化研究库：公开证据、收入归因与商业模式拆解。","author":{"@type":"Person","name":"AI 酋长 Andy","alternateName":"AIPMAndy","url":"https://github.com/AIPMAndy","sameAs":["https://x.com/AIPMAndy","https://metaver.vip/"]},"sameAs":["https://github.com/AIPMAndy/chinese-x-creators"]},ensure_ascii=False).replace('<','\\u003c')
+    return head(CFG['projectName']+'：中文 X（推特）创作者收入与商业模式研究 | AI 酋长 Andy',f'中文 X 创作者商业化研究库：用可追溯的公开来源研究 {len(CREATORS)} 位中文 X（推特）创作者的真实收入、流量增长与商业模式，逐项区分个人净收入、公司营收、产品流水和 X 的独立贡献，附收入证据账本与 CSV 下载。',CFG['siteUrl'])+f'<script type="application/ld+json">{site_ld}</script>'+nav(True)+f'''
     <main id="main">
       <div class="wrap"><section class="hero"><span class="eyebrow">OPEN SOURCE / CREATOR ECONOMY</span>
         <h1>找到千万级生意。<br><em>拆开每条收入证据。</em></h1>

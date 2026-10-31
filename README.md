@@ -112,33 +112,9 @@ python3 -m http.server 8080 --directory docs
 | 前端 | 原生 HTML / CSS / JavaScript，无外部数据库、无登录、无追踪 |
 | 部署 | GitHub Actions + GitHub Pages |
 
-## 🛟 六、网站打不开怎么办
+> 🛠️ 网站打不开怎么办、如何发布仓库：见 [维护手册 docs/MAINTAINING.md](docs/MAINTAINING.md)。
 
-**第一步：** 打开 [站点入口](https://aipmandy.github.io/chinese-x-creators/)；如果仍打不开，先用 [GitHub 上的首页 HTML](docs/index.html) 与 [关于项目](docs/about.html) 查看内容（GitHub 的源码预览不会渲染成完整网站）。
-
-**第二步：** 打开 [Pages 设置](https://github.com/AIPMAndy/chinese-x-creators/settings/pages)，将 **Build and deployment → Source** 选为 **GitHub Actions**。本项目自带 `.github/workflows/deploy-pages.yml`，会验证、构建并自动部署，也可以在 [Actions](https://github.com/AIPMAndy/chinese-x-creators/actions/workflows/deploy-pages.yml) 手动重跑。
-
-**第三步：** 在 [Actions](https://github.com/AIPMAndy/chinese-x-creators/actions) 查看最近一次 **Deploy Pages** 是否成功。若失败，先查看日志，再检查仓库 Pages 设置。GitHub Pages 可能受到所在网络访问限制；源码和 CSV 可以直接通过 GitHub 仓库阅读。
-
-**仓库 About（右栏）建议值：** 描述 `中文 X 创作者商业化研究库：公开证据、千万级候选、收入归因与可复制的增长路径。`；Website `https://aipmandy.github.io/chinese-x-creators/`；Topics：`x-twitter`、`creator-economy`、`indie-hackers`、`open-source`、`case-studies`。About 属于仓库设置，需仓库管理员在 About 右侧齿轮填写。
-
-## 📦 七、如何发布 GitHub 仓库
-
-这是一个**独立开源仓库**，不覆盖已有的 `x-income-handbook`。
-
-如果你已安装 [GitHub CLI](https://cli.github.com/) 并登录 `AIPMAndy` 账号，在项目根目录执行：
-
-```bash
-bash scripts/publish.sh
-```
-
-脚本会创建（或使用）`AIPMAndy/chinese-x-creators` 并推送源码。仓库现在使用 GitHub Actions 自动部署网站；请在 `Settings → Pages` 选择 `GitHub Actions` 为发布源，工作流会在推送到 `main` 后运行。站点将在 Pages 成功部署后位于：
-
-`https://aipmandy.github.io/chinese-x-creators/`
-
-**不要在发布前将这个网址当成已上线网站。**
-
-## 🔁 八、怎么长期维护
+## 🔁 六、怎么长期维护
 
 - 每周一通过 [GitHub Actions](.github/workflows/weekly-research.yml) 自动创建复核 Issue（需仓库 Actions/Issue 写权限）；该 Issue 是检查清单，不是自动爬虫或自动事实认证。
 - 按 [研究流水线](research/research-pipeline.md) 采集和核验新线索。
@@ -146,7 +122,7 @@ bash scripts/publish.sh
 - 每次修改数据之后运行构建、验证与 CI；来源更新应保留 Git 历史。
 - 收入纠错时优先记录原文、冲突与撤回时间，不擅自篡改历史声称。
 
-## ⚖️ 九、伦理、版权与商业关系
+## ⚖️ 七、伦理、版权与商业关系
 
 本项目只整理公开材料和独立原创分析，不复制博主全文、私下收入截图或未经授权肖像。引用和链接不意味着创作者本人认可本项目。Web3 项目及佣金推广涉及风险和合规义务，不构成投资或监管建议。
 
