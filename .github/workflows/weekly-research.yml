@@ -1,0 +1,24 @@
+name: Weekly research review issue
+on:
+  schedule:
+    - cron: '0 2 * * 1'
+  workflow_dispatch:
+permissions:
+  issues: write
+jobs:
+  create-review:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/github-script@v7
+        with:
+          script: |
+            const now = new Date().toISOString().slice(0, 10);
+            const title = `[每周证据复核] ${now}`;
+            const existing = await github.paginate(github.rest.issues.listForRepo, {
+              ...context.repo, state: 'open', per_page: 100
+            });
+            if (existing.some(i => i.title === title)) return;
+            await github.rest.issues.create({
+              ...context.repo, title,
+              body: `本周研究清单：\n- [ ] 核查新出现的千万级年度营收原始披露\n- [ ] 标注主体、年度、个人利润与 X 导流贡献\n- [ ] 更新至少一篇案例与来源核查日\n- [ ] 记录反例、口径冲突与已失效来源\n- [ ] 运行 Python 构建及测试。\n\n模板：research/weekly-review-template.md`,
+            });

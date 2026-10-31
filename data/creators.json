@@ -1,0 +1,1674 @@
+[
+  {
+    "id": "bourneliu66",
+    "name": "刘小排",
+    "handle": "bourneliu66",
+    "initials": "刘",
+    "focus": "AI 产品出海与快速试错",
+    "category": "AI",
+    "stage": "千万级候选",
+    "tier": "ten_million_candidate",
+    "evidenceGrade": "B",
+    "businessModel": [
+      "AI 产品订阅",
+      "广告",
+      "课程"
+    ],
+    "headline": "2025 年访谈标题称年营收超千万；本人说法被媒体引述为 2024 年接近 1,000 万元",
+    "revenue": {
+      "value": null,
+      "currency": "CNY",
+      "label": "约千万元规模，数值存在口径差异",
+      "period": "2024 年／2025 年采访（存在叙述差异）",
+      "scope": "AI 产品相关业务营收；非个人净收入",
+      "attribution": "X 获客金额未披露",
+      "kind": "business_claim"
+    },
+    "summary": "AI 产品创业者，发布 Raphael AI、AnyVoice 等项目。中文社群影响力与 X 公开表达是传播渠道之一。",
+    "mechanism": "寻找供需缺口 → AI 辅助开发 MVP → 付费验证 → 持续改进获客与留存；缺少 X 的单独归因数据。",
+    "insights": [
+      "先找支付意愿明确、仍存在明显体验缺陷的需求。",
+      "从现成产品和真实用户反馈验证需求，再增加开发资源。",
+      "媒体标题与采访原话必须并列，不能用标题替代会计报表。"
+    ],
+    "actions": [
+      "用公开评论和竞品评价收集 20 条问题表述。",
+      "搭建单功能 MVP 并测试是否有实际付费。",
+      "用渠道追踪将 X 访问、SEO 和私域成交分开。"
+    ],
+    "limitations": [
+      "“超过千万”与“接近千万”来源描述冲突。",
+      "不是经过财务审计的个人年净收入。",
+      "团队现状也与媒体常用“一人公司”称呼存在时间差。"
+    ],
+    "sources": [
+      {
+        "title": "程前访谈视频标题：年营收超千万",
+        "url": "https://www.bilibili.com/video/BV1WuQJYFEPr/",
+        "type": "采访标题",
+        "checked": "2026-10-31"
+      },
+      {
+        "title": "InfoQ：引述本人称 2024 年收入接近千万元",
+        "url": "https://www.infoq.cn/article/07MyWmhiocSah2m9EqOt",
+        "type": "访谈转述",
+        "checked": "2026-10-31"
+      },
+      {
+        "title": "十字路口对谈：公司规模及业务",
+        "url": "https://elsewhere.news/zh/crossing/claude-code-ai",
+        "type": "本人采访",
+        "checked": "2026-10-31"
+      },
+      {
+        "title": "X 账号",
+        "url": "https://x.com/bourneliu66",
+        "type": "公开主页",
+        "checked": "2026-10-31"
+      }
+    ],
+    "updatedAt": "2026-10-31",
+    "readMinutes": 5
+  },
+  {
+    "id": "utoolai",
+    "name": "Eric 出海",
+    "handle": "utoolai",
+    "initials": "E",
+    "focus": "连续创业、AI SaaS 与 SEO",
+    "category": "出海",
+    "stage": "千万级候选",
+    "tier": "ten_million_candidate",
+    "evidenceGrade": "B",
+    "businessModel": [
+      "公司经营",
+      "AI 产品",
+      "SEO"
+    ],
+    "headline": "本人 X 公开自述：曾有公司年度营收超过 1,000 万元，年份及财务凭证未披露",
+    "revenue": {
+      "value": null,
+      "currency": "CNY",
+      "label": "曾年营收超 1,000 万元（本人自述）",
+      "period": "历史年份未指明",
+      "scope": "曾经营公司的年度营收；不是个人所得",
+      "attribution": "新 X 账号所带来的收入未知",
+      "kind": "self_report"
+    },
+    "summary": "长期创业者，在 X 分享从头实践 AI 出海的过程，公开声称历史企业年度营收超过千万。",
+    "mechanism": "历史公司经营成果 → 个人 X 内容起号 → AI 出海项目研究；两阶段业务不能混为一谈。",
+    "insights": [
+      "历史千万营收与新业务从零起号是两件事。",
+      "研究成熟企业家进入 X 时的信任迁移与定位方式。"
+    ],
+    "actions": [
+      "追踪该账号后续的产品公开数据。",
+      "仅在拿到具体年份和业务范围后升级其收入认证。"
+    ],
+    "limitations": [
+      "没有年份、产品列表、利润或审计材料。",
+      "千万级数字属于原有公司历史经营表现，不能算 X 运营年收入。"
+    ],
+    "sources": [
+      {
+        "title": "X 公开发帖缓存（10 月 11 日自述）",
+        "url": "https://teapawt.net/utoolai",
+        "type": "本人发帖转存",
+        "checked": "2026-10-31"
+      },
+      {
+        "title": "X 主页",
+        "url": "https://x.com/utoolai",
+        "type": "公开主页",
+        "checked": "2026-10-31"
+      }
+    ],
+    "updatedAt": "2026-10-31",
+    "readMinutes": 5
+  },
+  {
+    "id": "dtdt666",
+    "name": "看不懂的 SOL",
+    "handle": "DtDt666",
+    "initials": "看",
+    "focus": "加密内容、商单及返佣",
+    "category": "Web3",
+    "stage": "百万级实战",
+    "tier": "million",
+    "evidenceGrade": "B",
+    "businessModel": [
+      "品牌广告",
+      "联盟返佣"
+    ],
+    "headline": "本人自述 2025 年内容相关广告与返佣收入约人民币 200 万元",
+    "revenue": {
+      "value": 2000000,
+      "currency": "CNY",
+      "label": "约 200 万元（本人自述）",
+      "period": "2025 自然年",
+      "scope": "广告＋返佣收入（非净利润）",
+      "attribution": "X 相关业务；直接渠道归因细目缺失",
+      "kind": "self_report"
+    },
+    "summary": "Web3 社区垂直创作者，专业内容、推广广告与联盟返佣是其披露的主要收入路径。",
+    "mechanism": "细分话题持续输出 → 交易平台推广合作与联盟转化。金融推广的合规和利益冲突需要重点研究。",
+    "insights": [
+      "高价值细分受众更可能支持长期商业合作。",
+      "推广佣金收入应与投资交易收益严格分离。"
+    ],
+    "actions": [
+      "研究广告声明、佣金披露和监管合规要求。",
+      "以真实内容分析替代夸大收益或交易引导。"
+    ],
+    "limitations": [
+      "未经第三方审计。",
+      "加密资产及其推广涉及高风险，地域法规差异大，不构成投资建议。"
+    ],
+    "sources": [
+      {
+        "title": "2025 年收入本人原帖",
+        "url": "https://x.com/DtDt666/status/2007698288347410635",
+        "type": "X 原帖",
+        "checked": "2026-10-31"
+      },
+      {
+        "title": "PANews 报道及原帖关联",
+        "url": "https://www.panewslab.com/zh/articles/d38439d0-bafa-49dd-807b-584b09c7017e",
+        "type": "媒体转述",
+        "checked": "2026-10-31"
+      },
+      {
+        "title": "X 账号",
+        "url": "https://x.com/DtDt666",
+        "type": "公开主页",
+        "checked": "2026-10-31"
+      }
+    ],
+    "updatedAt": "2026-10-31",
+    "readMinutes": 5
+  },
+  {
+    "id": "go-indie-james",
+    "name": "James（出海去访谈）",
+    "handle": "",
+    "initials": "J",
+    "focus": "独立开发与高客单软件",
+    "category": "出海",
+    "stage": "身份待核",
+    "tier": "unverified_identity",
+    "evidenceGrade": "C",
+    "businessModel": [
+      "独立 SaaS",
+      "软件产品"
+    ],
+    "headline": "2024 年受访自述独立项目全年收入超过人民币 200 万，X 账号尚待身份核验",
+    "revenue": {
+      "value": 2000000,
+      "currency": "CNY",
+      "label": "2024 年超过 200 万元（受访自述）",
+      "period": "2024 年",
+      "scope": "软件业务全年收入，个人净所得不明",
+      "attribution": "访谈提到 Twitter 等平台，但 X 转化贡献未核实",
+      "kind": "self_report"
+    },
+    "summary": "悉尼全栈开发者通过自己的产品取得收入；访谈探讨 Build in Public、定价与用户增长。",
+    "mechanism": "软件产品验证 → 高客单价格 → 社区互动 → 付费用户。",
+    "insights": [
+      "可研究受众定位与内容价值，但尚未证实该账号的年收入。",
+      "社交平台影响力和商业盈利能力需要分别检验。"
+    ],
+    "actions": [
+      "阅读公开置顶帖和近期作品，记录可核查的增长与成交线索。",
+      "通过公开案例寻找可验证的获客路径，避免照搬自述的结果。"
+    ],
+    "limitations": [
+      "目前未确认可安全对应的唯一 X Handle；禁止推断或误绑账号。",
+      "年收入为受访者陈述，尚无审计。"
+    ],
+    "sources": [
+      {
+        "title": "出海去第 48 期访谈",
+        "url": "https://www.xiaoyuzhoufm.com/episode/67c07fdc05a90dfd0d4c8ccb",
+        "type": "访谈本人自述",
+        "checked": "2026-10-31"
+      }
+    ],
+    "updatedAt": "2026-10-31",
+    "readMinutes": 5
+  },
+  {
+    "id": "bozhou-ai",
+    "name": "泊舟",
+    "handle": "bozhou_ai",
+    "initials": "泊",
+    "focus": "AI 编程与工具服务",
+    "category": "AI",
+    "stage": "百万级实战",
+    "businessModel": [
+      "品牌商单",
+      "工具服务",
+      "课程"
+    ],
+    "headline": "2026 年截至 10 月，个人自述各项收入合计约 104 万元",
+    "revenue": {
+      "value": 1040000,
+      "currency": "CNY",
+      "label": "约 104 万元",
+      "period": "2026 年初至 10 月 22 日",
+      "scope": "个人多渠道总收入，含工资",
+      "attribution": "X 单独贡献未知",
+      "kind": "self_report"
+    },
+    "summary": "通过持续输出 AI 编程与 Agent 实战内容，连接商单、工具服务和课程。作者公开拆分工资、自媒体、中转服务与其他收入。",
+    "mechanism": "专业内容建立信任 → 沉淀有工具需求的用户 → 商单、工具及课程成交。具体 X 归因尚不可量化。",
+    "insights": [
+      "同一受众可能同时购买教程和工具，收入具有多元化特征。",
+      "B 端客户对工具业务的贡献值得重点研究，但不是所有创作者都能照搬。",
+      "依赖上游平台或模型的工具服务，存在供应链和合规风险。"
+    ],
+    "actions": [
+      "围绕一个持续出现的用户问题输出 10 条实测内容。",
+      "提供一个真实可用的免费样例，观察下载、注册和咨询。",
+      "把不同变现来源单独记账，避免把公司流水当作个人利润。"
+    ],
+    "limitations": [
+      "104 万元包含工资，不等于 X 创作者收入。",
+      "收入为作者估算，缺少独立审计及成本明细。",
+      "截至日期在 2026 年内，不能直接视为完整自然年收益。"
+    ],
+    "sources": [
+      {
+        "title": "作者收入复盘（公开转载）",
+        "url": "https://haowenji.com/articles/x-2112951083874344961",
+        "type": "本人自述",
+        "checked": "2026-10-31"
+      },
+      {
+        "title": "X 公开主页",
+        "url": "https://x.com/bozhou_ai",
+        "type": "账号链接",
+        "checked": "2026-10-31"
+      }
+    ],
+    "updatedAt": "2026-10-31",
+    "readMinutes": 6,
+    "tier": "million",
+    "evidenceGrade": "B"
+  },
+  {
+    "id": "ai-jasonyu",
+    "name": "鱼总聊 AI",
+    "handle": "AI_Jasonyu",
+    "initials": "鱼",
+    "focus": "AI 出海与个人品牌",
+    "category": "AI",
+    "stage": "百万以下实战",
+    "businessModel": [
+      "品牌商单",
+      "联盟营销",
+      "平台收益",
+      "咨询"
+    ],
+    "headline": "本人复盘：12 个月涨粉至 6.3 万，X 相关累计变现超过 40 万元",
+    "revenue": {
+      "value": 400000,
+      "currency": "CNY",
+      "label": "40 万元以上",
+      "period": "约 2025 年 9 月至 2026 年 9 月",
+      "scope": "本人所称 X 相关累计变现",
+      "attribution": "作者归为 X 相关，明细仍需复核",
+      "kind": "self_report"
+    },
+    "summary": "把 AI 出海、应用开发和真实项目经验转化为长文，借助教程获得曝光，再以商单、佣金和相关业务完成变现。",
+    "mechanism": "AI 出海长文 → X 关注与互动 → 品牌合作、联盟营销及产品咨询。",
+    "insights": [
+      "使用过的产品与真实案例能提供更强的内容差异化。",
+      "长文可同时服务增长和商业转化，但单篇爆款不可稳定预测。",
+      "所谓累计变现包含不同收入渠道，需要与净利润分开。"
+    ],
+    "actions": [
+      "选择自己已操作过的 AI 工具，记录实际步骤与结果。",
+      "每篇长文设置可查证的演示材料与原始链接。",
+      "记录商单报价、实际成交、联盟佣金和平台收入四类流水。"
+    ],
+    "limitations": [
+      "40 万元以上为本人自述，非独立审计。",
+      "X 相关变现不等于 X 官方分成；其中可能包含品牌和产品收入。",
+      "用户规模与收入来自不同更新时点，展示时不得混同。"
+    ],
+    "sources": [
+      {
+        "title": "鱼总本人起号与变现复盘（授权转载）",
+        "url": "https://www.10100.com/article/152577813",
+        "type": "本人自述",
+        "checked": "2026-10-31"
+      },
+      {
+        "title": "作者个人网站",
+        "url": "https://yuzong.ai/",
+        "type": "本人网站",
+        "checked": "2026-10-31"
+      },
+      {
+        "title": "X 公开主页",
+        "url": "https://x.com/AI_Jasonyu",
+        "type": "账号链接",
+        "checked": "2026-10-31"
+      }
+    ],
+    "updatedAt": "2026-10-31",
+    "readMinutes": 6,
+    "tier": "midrange",
+    "evidenceGrade": "B"
+  },
+  {
+    "id": "gkxspace",
+    "name": "余温",
+    "handle": "gkxspace",
+    "initials": "余",
+    "focus": "AI 产品、X 内容与咨询变现",
+    "category": "AI / 咨询",
+    "stage": "百万以下实战",
+    "tier": "documented_income",
+    "evidenceGrade": "B",
+    "businessModel": [
+      "X 内容",
+      "咨询",
+      "商单及返佣",
+      "社群"
+    ],
+    "headline": "2026 年 9 月本人公开表示，近一年通过 X 直接与间接变现超过 50 万元（非完整年度净利润）",
+    "revenue": {
+      "value": 500000,
+      "currency": "CNY",
+      "label": "X 直接与间接收入超 50 万元（本人自述）",
+      "period": "约 2025-09 至 2026-09 的起号一年回顾",
+      "scope": "多渠道收入合计：平台奖励、商单、返佣、社群、咨询及客户，未披露利润",
+      "attribution": "作者本人称与 X 直接或间接相关，缺少独立订单或渠道核验",
+      "kind": "self_report"
+    },
+    "summary": "中文 X AI 内容创业者，2026 年 9 月复盘称一年从近零粉丝做至约五万关注，X 直接和间接带来超过五十万元商业收入，属于有明确 X 归因自述的案例。",
+    "mechanism": "持续分享 AI 产品实践与踩坑 → 获取关注与客户信任 → 商单/联盟/咨询/社群多渠道变现；未公开分类收入占比。",
+    "insights": [
+      "这是“X 相关商业化”的本人自述，比单纯公司营收更贴近本仓库主题。",
+      "收入包含直接与间接渠道，不能重复计算，也无法据此计算利润。",
+      "具体粉丝数和曝光量只是该时点快照，不代表长期增长。"
+    ],
+    "actions": [
+      "针对一个清晰细分人群连续公开真实项目进展。",
+      "在服务联系页建立独立表单与来源参数，区分 X 转介订单。",
+      "每月同时记录内容曝光、线索数、已付费收入、交付成本。"
+    ],
+    "limitations": [
+      "50 万为本人公开叙述，缺少第三方审计；完整收入周期需按原帖再细分。",
+      "单月 20 万峰值不可直接乘 12 当作年入 240 万。",
+      "没有支持达到个人年度 1,000 万元的证据。"
+    ],
+    "sources": [
+      {
+        "title": "2026 年 9 月 X 公开自述及原帖缓存",
+        "url": "https://teapawt.net/gkxspace",
+        "type": "本人公开发帖缓存",
+        "checked": "2026-10-31"
+      },
+      {
+        "title": "X 主页",
+        "url": "https://x.com/gkxspace",
+        "type": "公开账号",
+        "checked": "2026-10-31"
+      }
+    ],
+    "updatedAt": "2026-10-31",
+    "readMinutes": 6
+  },
+  {
+    "id": "gosailglobal",
+    "name": "Jason Zhu / GoSailGlobal",
+    "handle": "GoSailGlobal",
+    "initials": "J",
+    "focus": "AI 内容与出海 MCN",
+    "category": "AI",
+    "stage": "百万以下实战",
+    "tier": "midrange",
+    "evidenceGrade": "B",
+    "businessModel": [
+      "AI MCN",
+      "商单",
+      "服务"
+    ],
+    "headline": "播客访谈披露：约 11 个月 X 运营、公司账户收入约 60 万元",
+    "revenue": {
+      "value": 600000,
+      "currency": "CNY",
+      "label": "约 60 万元",
+      "period": "访谈称当年 3 月起的若干月（不足完整自然年）",
+      "scope": "公司账户营收",
+      "attribution": "与 X 内容运营有关，但无单独归因金额",
+      "kind": "self_report"
+    },
+    "summary": "从 AI 工程背景转向个人内容与 AI MCN，访谈讨论发帖、获客与品牌合作的实际过程。",
+    "mechanism": "持续原创内容 → 垂直关注者 → 品牌商单与 MCN 服务 → 客户复购。",
+    "insights": [
+      "建立专业内容的连续性可以增加品牌合作机会。",
+      "有 60 万公司收入不等于有 60 万个人收入。"
+    ],
+    "actions": [
+      "用内容与商单流水创建每月漏斗表。",
+      "拆解实际服务交付，列出完成一单的工时成本。"
+    ],
+    "limitations": [
+      "没有披露完整自然年个人净收入。",
+      "X 对收入的渠道归因未公开。"
+    ],
+    "sources": [
+      {
+        "title": "自由指北播客本人访谈",
+        "url": "https://www.xiaoyuzhoufm.com/episode/6a5abea0a3fec224d59f51cb",
+        "type": "访谈",
+        "checked": "2026-10-31"
+      },
+      {
+        "title": "X 账号",
+        "url": "https://x.com/GoSailGlobal",
+        "type": "公开主页",
+        "checked": "2026-10-31"
+      }
+    ],
+    "updatedAt": "2026-10-31",
+    "readMinutes": 5
+  },
+  {
+    "id": "gefei55",
+    "name": "哥飞",
+    "handle": "gefei55",
+    "initials": "飞",
+    "focus": "SEO、网站与出海社群",
+    "category": "出海",
+    "stage": "研究观察",
+    "businessModel": [
+      "付费社群",
+      "SaaS",
+      "顾问服务",
+      "SEO 服务"
+    ],
+    "headline": "官网自述 6,500+ 付费社群成员，多个产品单项累计营收超百万美元",
+    "revenue": {
+      "value": null,
+      "currency": null,
+      "label": "年收入未披露",
+      "period": "官网截至 2026 年 10 月的公开描述",
+      "scope": "社群规模与产品历史累计营收",
+      "attribution": "无法确认 X 带来的付费转化",
+      "kind": "business_claim"
+    },
+    "summary": "通过长期 SEO 实践、出海产品和专业社群形成商业体系；X 是其公开表达与品牌曝光的渠道之一。",
+    "mechanism": "搜索需求验证 → 产品与 SEO 服务 → 社群知识复用 → 多产品迭代；X 的独立贡献未披露。",
+    "insights": [
+      "真正可复用的是先验证需求，再开发产品。",
+      "专业社群能够延长内容的价值周期，但交付成本需要计算。",
+      "产品单项累计营收不能推算为个人年收入或利润。"
+    ],
+    "actions": [
+      "从自己熟悉的行业筛选 10 个有明确搜索需求的问题。",
+      "先完成最小页面和付费验证，再扩大开发。",
+      "把社群、产品和服务分别维护转化与留存指标。"
+    ],
+    "limitations": [
+      "6,500+ 是官网自述付费成员规模，不代表当年新增用户。",
+      "百万美元是多个产品的历史累计营收主张，无法当作年度 X 变现。",
+      "缺少经核实的 X 导流、利润与经营成本数据。"
+    ],
+    "sources": [
+      {
+        "title": "GeFei Digital 官网（本人及企业介绍）",
+        "url": "https://gefei.net/zh/",
+        "type": "本人网站",
+        "checked": "2026-10-31"
+      },
+      {
+        "title": "X 公开主页",
+        "url": "https://x.com/gefei55",
+        "type": "账号链接",
+        "checked": "2026-10-31"
+      }
+    ],
+    "updatedAt": "2026-10-31",
+    "readMinutes": 5,
+    "tier": "observation",
+    "evidenceGrade": "B"
+  },
+  {
+    "id": "sitinme",
+    "name": "sitin",
+    "handle": "sitinme",
+    "initials": "s",
+    "focus": "建站、增长与工具流量",
+    "category": "出海",
+    "stage": "研究观察",
+    "tier": "monthly",
+    "evidenceGrade": "B",
+    "businessModel": [
+      "SEO",
+      "AI 工具",
+      "社群"
+    ],
+    "headline": "X 简介自述经营网站达到每月 10,000 美元；未披露自然年个人利润",
+    "revenue": {
+      "value": null,
+      "currency": "USD",
+      "label": "10,000 美元/月（简介自述）",
+      "period": "截至 2026 年 10 月的账号简介，未指明具体月份",
+      "scope": "多个网站业务月度收入，未说明是流水还是利润",
+      "attribution": "X 直接贡献未披露",
+      "kind": "self_report"
+    },
+    "summary": "分享工具、出海和增长实践，既有网站业务，也通过 X 发布经验。",
+    "mechanism": "工具内容 → 长尾搜索与社群触达 → 网站服务变现；X 转化贡献待核。",
+    "insights": [
+      "可研究受众定位与内容价值，但尚未证实该账号的年收入。",
+      "社交平台影响力和商业盈利能力需要分别检验。"
+    ],
+    "actions": [
+      "阅读公开置顶帖和近期作品，记录可核查的增长与成交线索。",
+      "通过公开案例寻找可验证的获客路径，避免照搬自述的结果。"
+    ],
+    "limitations": [
+      "没有披露完整自然年个人净收入。",
+      "X 对收入的渠道归因未公开。"
+    ],
+    "sources": [
+      {
+        "title": "公开 X 简介缓存",
+        "url": "https://teapawt.net/sitinme",
+        "type": "本人账号自述",
+        "checked": "2026-10-31"
+      },
+      {
+        "title": "X 主页",
+        "url": "https://x.com/sitinme",
+        "type": "公开主页",
+        "checked": "2026-10-31"
+      }
+    ],
+    "updatedAt": "2026-10-31",
+    "readMinutes": 5
+  },
+  {
+    "id": "yihui-indie",
+    "name": "熠辉",
+    "handle": "yihui_indie",
+    "initials": "熠",
+    "focus": "AI 产品独立开发与持续交付",
+    "category": "AI",
+    "stage": "研究观察",
+    "tier": "monthly",
+    "evidenceGrade": "B",
+    "businessModel": [
+      "SaaS",
+      "订阅"
+    ],
+    "headline": "公开帖称产品近 30 天收入 12,037 美元，MRR 3,918 美元；两项不是同一统计口径",
+    "revenue": {
+      "value": null,
+      "currency": "USD",
+      "label": "近 30 天 $12,037；MRR $3,918（自述）",
+      "period": "2026 年 10 月附近的单期收入快照",
+      "scope": "单款产品近 30 天收入与月经常性收入",
+      "attribution": "X 贡献未披露",
+      "kind": "self_report"
+    },
+    "summary": "独立开发者公开产品迭代、收入快照和体验，适合研究从流量到付费产品的转化。",
+    "mechanism": "X Build in Public → 产品试用 → 订阅和一次性支付；长期留存尚需观察。",
+    "insights": [
+      "可研究受众定位与内容价值，但尚未证实该账号的年收入。",
+      "社交平台影响力和商业盈利能力需要分别检验。"
+    ],
+    "actions": [
+      "阅读公开置顶帖和近期作品，记录可核查的增长与成交线索。",
+      "通过公开案例寻找可验证的获客路径，避免照搬自述的结果。"
+    ],
+    "limitations": [
+      "近 30 天营收不等于连续 12 个月稳定营收。",
+      "MRR 和近 30 天流水不能相加或互相替换。"
+    ],
+    "sources": [
+      {
+        "title": "长文榜收录的本人公开数据",
+        "url": "https://twkit.io/longform",
+        "type": "本人发帖整理",
+        "checked": "2026-10-31"
+      },
+      {
+        "title": "X 主页",
+        "url": "https://x.com/yihui_indie",
+        "type": "公开主页",
+        "checked": "2026-10-31"
+      }
+    ],
+    "updatedAt": "2026-10-31",
+    "readMinutes": 5
+  },
+  {
+    "id": "jessi-cao",
+    "name": "Jessi Cao",
+    "handle": "JessiCao_JC",
+    "initials": "J",
+    "focus": "X 长文与中文内容起号",
+    "category": "内容",
+    "stage": "研究观察",
+    "tier": "growth",
+    "evidenceGrade": "D",
+    "businessModel": [
+      "内容增长",
+      "知识服务"
+    ],
+    "headline": "自述 20 天涨至约 5,000 粉；暂无可信的自然年收入披露",
+    "revenue": {
+      "value": null,
+      "currency": null,
+      "label": "无可核实年度收入",
+      "period": "未披露",
+      "scope": "无可靠年度口径",
+      "attribution": "X 收入贡献未知",
+      "kind": "undisclosed"
+    },
+    "summary": "观察中文 X 以实用干货长文起号的技巧，重点拆标题、内容结构与收藏转化。",
+    "mechanism": "热点需求 → 深度教程长文 → 收藏与持续关注；商业收入尚无可靠数据。",
+    "insights": [
+      "可研究受众定位与内容价值，但尚未证实该账号的年收入。",
+      "社交平台影响力和商业盈利能力需要分别检验。"
+    ],
+    "actions": [
+      "阅读公开置顶帖和近期作品，记录可核查的增长与成交线索。",
+      "通过公开案例寻找可验证的获客路径，避免照搬自述的结果。"
+    ],
+    "limitations": [
+      "没有披露完整自然年个人净收入。",
+      "X 对收入的渠道归因未公开。"
+    ],
+    "sources": [
+      {
+        "title": "增长复盘 X 原帖",
+        "url": "https://x.com/JessiCao_JC/status/2113478290661163067",
+        "type": "本人公开贴文",
+        "checked": "2026-10-31"
+      },
+      {
+        "title": "X 账号",
+        "url": "https://x.com/JessiCao_JC",
+        "type": "公开主页",
+        "checked": "2026-10-31"
+      }
+    ],
+    "updatedAt": "2026-10-31",
+    "readMinutes": 5
+  },
+  {
+    "id": "oran-ge",
+    "name": "Orange AI",
+    "handle": "oran_ge",
+    "initials": "O",
+    "focus": "AI 产品、内容与联盟推广",
+    "category": "AI",
+    "stage": "研究观察",
+    "tier": "growth",
+    "evidenceGrade": "D",
+    "businessModel": [
+      "产品创业",
+      "联盟推广"
+    ],
+    "headline": "单条教程返佣案例有公开转述，无法证明本人年度净收入",
+    "revenue": {
+      "value": null,
+      "currency": null,
+      "label": "无可核实年度收入",
+      "period": "未披露",
+      "scope": "无可靠年度口径",
+      "attribution": "X 收入贡献未知",
+      "kind": "undisclosed"
+    },
+    "summary": "内容与 AI 产品创业关联紧密，适合研究工具型教程与联盟商品的自然衔接。",
+    "mechanism": "可执行教程 → 用户完成操作 → 转化成工具使用或商业合作；年度业务数据未公开。",
+    "insights": [
+      "可研究受众定位与内容价值，但尚未证实该账号的年收入。",
+      "社交平台影响力和商业盈利能力需要分别检验。"
+    ],
+    "actions": [
+      "阅读公开置顶帖和近期作品，记录可核查的增长与成交线索。",
+      "通过公开案例寻找可验证的获客路径，避免照搬自述的结果。"
+    ],
+    "limitations": [
+      "没有披露完整自然年个人净收入。",
+      "X 对收入的渠道归因未公开。"
+    ],
+    "sources": [
+      {
+        "title": "返佣案例对应 X 原帖",
+        "url": "https://x.com/oran_ge/status/2006848798816108582",
+        "type": "X 原帖",
+        "checked": "2026-10-31"
+      },
+      {
+        "title": "中文 X 账号资料",
+        "url": "https://xnav.laowe.club/influencers",
+        "type": "公开目录",
+        "checked": "2026-10-31"
+      }
+    ],
+    "updatedAt": "2026-10-31",
+    "readMinutes": 5
+  },
+  {
+    "id": "alanshao111",
+    "name": "邵艾伦 Alan",
+    "handle": "AlanShao111",
+    "initials": "邵",
+    "focus": "跨平台内容商业化",
+    "category": "内容",
+    "stage": "研究观察",
+    "tier": "growth",
+    "evidenceGrade": "D",
+    "businessModel": [
+      "品牌广告",
+      "课程",
+      "内容 IP"
+    ],
+    "headline": "公开 X 账号、跨平台内容影响力明显；缺少可核查年收入",
+    "revenue": {
+      "value": null,
+      "currency": null,
+      "label": "无可核实年度收入",
+      "period": "未披露",
+      "scope": "无可靠年度口径",
+      "attribution": "X 收入贡献未知",
+      "kind": "undisclosed"
+    },
+    "summary": "长期多平台创作者，2026 年在 X 的内容选题与传播值得研究。",
+    "mechanism": "长期内容资产 → 跨平台话题运营 → 品牌与知识产品；不把全网粉丝直接等同 X 收入。",
+    "insights": [
+      "可研究受众定位与内容价值，但尚未证实该账号的年收入。",
+      "社交平台影响力和商业盈利能力需要分别检验。"
+    ],
+    "actions": [
+      "阅读公开置顶帖和近期作品，记录可核查的增长与成交线索。",
+      "通过公开案例寻找可验证的获客路径，避免照搬自述的结果。"
+    ],
+    "limitations": [
+      "没有披露完整自然年个人净收入。",
+      "X 对收入的渠道归因未公开。"
+    ],
+    "sources": [
+      {
+        "title": "X 账号数据和时间点",
+        "url": "https://sopilot.net/zh/rank/creators/AlanShao111",
+        "type": "第三方榜单",
+        "checked": "2026-10-31"
+      },
+      {
+        "title": "公开 X 主页",
+        "url": "https://x.com/AlanShao111",
+        "type": "账号链接",
+        "checked": "2026-10-31"
+      }
+    ],
+    "updatedAt": "2026-10-31",
+    "readMinutes": 5
+  },
+  {
+    "id": "dotey",
+    "name": "宝玉",
+    "handle": "dotey",
+    "initials": "宝",
+    "focus": "AI 一线知识翻译与技术洞察",
+    "category": "AI",
+    "stage": "研究观察",
+    "tier": "observation",
+    "evidenceGrade": "D",
+    "businessModel": [
+      "专业影响力",
+      "技术咨询（待核）"
+    ],
+    "headline": "技术内容影响力较高，但个人 X 商业收入未披露",
+    "revenue": {
+      "value": null,
+      "currency": null,
+      "label": "无可核实年度收入",
+      "period": "未披露",
+      "scope": "无可靠年度口径",
+      "attribution": "X 收入贡献未知",
+      "kind": "undisclosed"
+    },
+    "summary": "持续翻译和评论 AI 技术动态，能研究影响力与权威感如何积累。",
+    "mechanism": "一线 AI 资讯 → 原创技术解读 → 长期专业信任；商业转化不作估算。",
+    "insights": [
+      "可研究受众定位与内容价值，但尚未证实该账号的年收入。",
+      "社交平台影响力和商业盈利能力需要分别检验。"
+    ],
+    "actions": [
+      "阅读公开置顶帖和近期作品，记录可核查的增长与成交线索。",
+      "通过公开案例寻找可验证的获客路径，避免照搬自述的结果。"
+    ],
+    "limitations": [
+      "没有披露完整自然年个人净收入。",
+      "X 对收入的渠道归因未公开。"
+    ],
+    "sources": [
+      {
+        "title": "中文 X 博主目录",
+        "url": "https://x.yuzong.ai/",
+        "type": "公开目录",
+        "checked": "2026-10-31"
+      },
+      {
+        "title": "X 主页",
+        "url": "https://x.com/dotey",
+        "type": "公开主页",
+        "checked": "2026-10-31"
+      }
+    ],
+    "updatedAt": "2026-10-31",
+    "readMinutes": 5
+  },
+  {
+    "id": "khazix0918",
+    "name": "数字生命卡兹克",
+    "handle": "Khazix0918",
+    "initials": "数",
+    "focus": "AI 工具实测与产品比较",
+    "category": "AI",
+    "stage": "研究观察",
+    "tier": "observation",
+    "evidenceGrade": "D",
+    "businessModel": [
+      "内容创作",
+      "品牌合作（待核）"
+    ],
+    "headline": "工具测评内容具有研究价值，未见可核实完整年度收入",
+    "revenue": {
+      "value": null,
+      "currency": null,
+      "label": "无可核实年度收入",
+      "period": "未披露",
+      "scope": "无可靠年度口径",
+      "attribution": "X 收入贡献未知",
+      "kind": "undisclosed"
+    },
+    "summary": "AI 产品深度体验类创作者，适合研究实际使用证明与专业口碑。",
+    "mechanism": "工具实测 → 可信内容 → 关注者积累；实际商业合作与利润待核实。",
+    "insights": [
+      "可研究受众定位与内容价值，但尚未证实该账号的年收入。",
+      "社交平台影响力和商业盈利能力需要分别检验。"
+    ],
+    "actions": [
+      "阅读公开置顶帖和近期作品，记录可核查的增长与成交线索。",
+      "通过公开案例寻找可验证的获客路径，避免照搬自述的结果。"
+    ],
+    "limitations": [
+      "没有披露完整自然年个人净收入。",
+      "X 对收入的渠道归因未公开。"
+    ],
+    "sources": [
+      {
+        "title": "中文 X 博主目录",
+        "url": "https://x.yuzong.ai/",
+        "type": "公开目录",
+        "checked": "2026-10-31"
+      },
+      {
+        "title": "X 主页",
+        "url": "https://x.com/Khazix0918",
+        "type": "公开主页",
+        "checked": "2026-10-31"
+      }
+    ],
+    "updatedAt": "2026-10-31",
+    "readMinutes": 5
+  },
+  {
+    "id": "lijigang",
+    "name": "李继刚",
+    "handle": "lijigang",
+    "initials": "李",
+    "focus": "Prompt 方法论与知识产品",
+    "category": "AI",
+    "stage": "研究观察",
+    "tier": "observation",
+    "evidenceGrade": "D",
+    "businessModel": [
+      "提示词",
+      "知识产品（待核）"
+    ],
+    "headline": "提示词传播范围较大，缺少年度 X 商业收入证据",
+    "revenue": {
+      "value": null,
+      "currency": null,
+      "label": "无可核实年度收入",
+      "period": "未披露",
+      "scope": "无可靠年度口径",
+      "attribution": "X 收入贡献未知",
+      "kind": "undisclosed"
+    },
+    "summary": "分享完整提示词与应用方法，适合研究免费知识资产如何积累长期关注。",
+    "mechanism": "可复制 Prompt → 讨论与传播 → 专业影响力；变现方式与金额未核实。",
+    "insights": [
+      "可研究受众定位与内容价值，但尚未证实该账号的年收入。",
+      "社交平台影响力和商业盈利能力需要分别检验。"
+    ],
+    "actions": [
+      "阅读公开置顶帖和近期作品，记录可核查的增长与成交线索。",
+      "通过公开案例寻找可验证的获客路径，避免照搬自述的结果。"
+    ],
+    "limitations": [
+      "没有披露完整自然年个人净收入。",
+      "X 对收入的渠道归因未公开。"
+    ],
+    "sources": [
+      {
+        "title": "中文 X 博主目录",
+        "url": "https://x.yuzong.ai/",
+        "type": "公开目录",
+        "checked": "2026-10-31"
+      },
+      {
+        "title": "X 主页",
+        "url": "https://x.com/lijigang",
+        "type": "公开主页",
+        "checked": "2026-10-31"
+      }
+    ],
+    "updatedAt": "2026-10-31",
+    "readMinutes": 5
+  },
+  {
+    "id": "lxfater",
+    "name": "铁锤人",
+    "handle": "lxfater",
+    "initials": "铁",
+    "focus": "开源开发工具与 AI 创业",
+    "category": "AI",
+    "stage": "研究观察",
+    "tier": "observation",
+    "evidenceGrade": "D",
+    "businessModel": [
+      "开源",
+      "技术产品"
+    ],
+    "headline": "公开开源作品与持续内容，未披露个人年度净收入",
+    "revenue": {
+      "value": null,
+      "currency": null,
+      "label": "无可核实年度收入",
+      "period": "未披露",
+      "scope": "无可靠年度口径",
+      "attribution": "X 收入贡献未知",
+      "kind": "undisclosed"
+    },
+    "summary": "将开源项目开发与 X 内容结合，是研究技术品牌与开源漏斗的代表。",
+    "mechanism": "开源项目 → 可复现教程 → 技术用户访问；商业付费闭环需要证据。",
+    "insights": [
+      "可研究受众定位与内容价值，但尚未证实该账号的年收入。",
+      "社交平台影响力和商业盈利能力需要分别检验。"
+    ],
+    "actions": [
+      "阅读公开置顶帖和近期作品，记录可核查的增长与成交线索。",
+      "通过公开案例寻找可验证的获客路径，避免照搬自述的结果。"
+    ],
+    "limitations": [
+      "没有披露完整自然年个人净收入。",
+      "X 对收入的渠道归因未公开。"
+    ],
+    "sources": [
+      {
+        "title": "中文 X 博主目录",
+        "url": "https://x.yuzong.ai/",
+        "type": "公开目录",
+        "checked": "2026-10-31"
+      },
+      {
+        "title": "X 账号",
+        "url": "https://x.com/lxfater",
+        "type": "公开主页",
+        "checked": "2026-10-31"
+      }
+    ],
+    "updatedAt": "2026-10-31",
+    "readMinutes": 5
+  },
+  {
+    "id": "op7418",
+    "name": "歸藏",
+    "handle": "op7418",
+    "initials": "歸",
+    "focus": "AIGC 工具与 AI 周刊",
+    "category": "AI",
+    "stage": "研究观察",
+    "tier": "observation",
+    "evidenceGrade": "D",
+    "businessModel": [
+      "内容周刊",
+      "品牌合作（待核）"
+    ],
+    "headline": "AI 内容和周刊可追踪；年度收入缺少可靠公开数值",
+    "revenue": {
+      "value": null,
+      "currency": null,
+      "label": "无可核实年度收入",
+      "period": "未披露",
+      "scope": "无可靠年度口径",
+      "attribution": "X 收入贡献未知",
+      "kind": "undisclosed"
+    },
+    "summary": "使用资讯整合与实测分享持续覆盖 AIGC 受众，适合研究内容的更新频次与复访。",
+    "mechanism": "内容策展 → X/其他渠道触达 → 专业影响力；收入归因未公开。",
+    "insights": [
+      "可研究受众定位与内容价值，但尚未证实该账号的年收入。",
+      "社交平台影响力和商业盈利能力需要分别检验。"
+    ],
+    "actions": [
+      "阅读公开置顶帖和近期作品，记录可核查的增长与成交线索。",
+      "通过公开案例寻找可验证的获客路径，避免照搬自述的结果。"
+    ],
+    "limitations": [
+      "没有披露完整自然年个人净收入。",
+      "X 对收入的渠道归因未公开。"
+    ],
+    "sources": [
+      {
+        "title": "中文 X 名单",
+        "url": "https://xnav.laowe.club/influencers",
+        "type": "公开目录",
+        "checked": "2026-10-31"
+      },
+      {
+        "title": "X 主页",
+        "url": "https://x.com/op7418",
+        "type": "公开主页",
+        "checked": "2026-10-31"
+      }
+    ],
+    "updatedAt": "2026-10-31",
+    "readMinutes": 5
+  },
+  {
+    "id": "watreejane",
+    "name": "小耳朵 sir",
+    "handle": "watreejane",
+    "initials": "小",
+    "focus": "iOS App、独立开发与出海",
+    "category": "出海",
+    "stage": "研究观察",
+    "tier": "observation",
+    "evidenceGrade": "D",
+    "businessModel": [
+      "App",
+      "软件订阅"
+    ],
+    "headline": "公开开发多款 App；具体年度营收需要找到本人原始记录",
+    "revenue": {
+      "value": null,
+      "currency": null,
+      "label": "无可核实年度收入",
+      "period": "未披露",
+      "scope": "无可靠年度口径",
+      "attribution": "X 收入贡献未知",
+      "kind": "undisclosed"
+    },
+    "summary": "独立开发者，研究 App 与 Web 产品之间的用户迁移、定价及曝光。",
+    "mechanism": "App 产品 → 渠道推广与真实用户 → 订阅及一次性购买（需确认各产品）。",
+    "insights": [
+      "可研究受众定位与内容价值，但尚未证实该账号的年收入。",
+      "社交平台影响力和商业盈利能力需要分别检验。"
+    ],
+    "actions": [
+      "阅读公开置顶帖和近期作品，记录可核查的增长与成交线索。",
+      "通过公开案例寻找可验证的获客路径，避免照搬自述的结果。"
+    ],
+    "limitations": [
+      "没有披露完整自然年个人净收入。",
+      "X 对收入的渠道归因未公开。"
+    ],
+    "sources": [
+      {
+        "title": "X 独立开发者目录",
+        "url": "https://www.jxxy.net/ai/articles/cn-indie-devs-directory/",
+        "type": "第三方目录",
+        "checked": "2026-10-31"
+      },
+      {
+        "title": "X 主页",
+        "url": "https://x.com/watreejane",
+        "type": "公开主页",
+        "checked": "2026-10-31"
+      }
+    ],
+    "updatedAt": "2026-10-31",
+    "readMinutes": 5
+  },
+  {
+    "id": "blankwebdev",
+    "name": "Blank",
+    "handle": "blankwebdev",
+    "initials": "B",
+    "focus": "SEO 工具与独立开发",
+    "category": "出海",
+    "stage": "研究观察",
+    "tier": "observation",
+    "evidenceGrade": "D",
+    "businessModel": [
+      "SaaS",
+      "SEO"
+    ],
+    "headline": "多个网站与工具公开，缺少明确完整年度收入来源",
+    "revenue": {
+      "value": null,
+      "currency": null,
+      "label": "无可核实年度收入",
+      "period": "未披露",
+      "scope": "无可靠年度口径",
+      "attribution": "X 收入贡献未知",
+      "kind": "undisclosed"
+    },
+    "summary": "开发工具相关产品与 SEO 增长，适合研究产品组合和搜索流量。",
+    "mechanism": "解决个人工作中的具体痛点 → 网站功能开发 → SEO 与口碑传播。",
+    "insights": [
+      "可研究受众定位与内容价值，但尚未证实该账号的年收入。",
+      "社交平台影响力和商业盈利能力需要分别检验。"
+    ],
+    "actions": [
+      "阅读公开置顶帖和近期作品，记录可核查的增长与成交线索。",
+      "通过公开案例寻找可验证的获客路径，避免照搬自述的结果。"
+    ],
+    "limitations": [
+      "没有披露完整自然年个人净收入。",
+      "X 对收入的渠道归因未公开。"
+    ],
+    "sources": [
+      {
+        "title": "X 独立开发者目录",
+        "url": "https://www.jxxy.net/ai/articles/cn-indie-devs-directory/",
+        "type": "第三方目录",
+        "checked": "2026-10-31"
+      },
+      {
+        "title": "X 主页",
+        "url": "https://x.com/blankwebdev",
+        "type": "公开主页",
+        "checked": "2026-10-31"
+      }
+    ],
+    "updatedAt": "2026-10-31",
+    "readMinutes": 5
+  },
+  {
+    "id": "weijunext",
+    "name": "weijunext",
+    "handle": "weijunext",
+    "initials": "w",
+    "focus": "Next.js、SaaS 与开源模板",
+    "category": "出海",
+    "stage": "研究观察",
+    "tier": "observation",
+    "evidenceGrade": "D",
+    "businessModel": [
+      "开源模板",
+      "SaaS"
+    ],
+    "headline": "技术模板和产品方向公开，暂无完整年度收入证据",
+    "revenue": {
+      "value": null,
+      "currency": null,
+      "label": "无可核实年度收入",
+      "period": "未披露",
+      "scope": "无可靠年度口径",
+      "attribution": "X 收入贡献未知",
+      "kind": "undisclosed"
+    },
+    "summary": "聚焦开发者的可复用项目与出海建站实践，适合研究开源到商业产品的路径。",
+    "mechanism": "开源模板 → 开发者分发 → 付费产品机会（具体收入未核）。",
+    "insights": [
+      "可研究受众定位与内容价值，但尚未证实该账号的年收入。",
+      "社交平台影响力和商业盈利能力需要分别检验。"
+    ],
+    "actions": [
+      "阅读公开置顶帖和近期作品，记录可核查的增长与成交线索。",
+      "通过公开案例寻找可验证的获客路径，避免照搬自述的结果。"
+    ],
+    "limitations": [
+      "没有披露完整自然年个人净收入。",
+      "X 对收入的渠道归因未公开。"
+    ],
+    "sources": [
+      {
+        "title": "中文 X 技术博主目录",
+        "url": "https://www.jxxy.net/ai/articles/72-chinese-x-bloggers/",
+        "type": "第三方目录",
+        "checked": "2026-10-31"
+      },
+      {
+        "title": "X 账号",
+        "url": "https://x.com/weijunext",
+        "type": "公开主页",
+        "checked": "2026-10-31"
+      }
+    ],
+    "updatedAt": "2026-10-31",
+    "readMinutes": 5
+  },
+  {
+    "id": "tonychuhai",
+    "name": "Tony 出海",
+    "handle": "tonychuhai",
+    "initials": "T",
+    "focus": "出海产品、SEO 和社媒转化",
+    "category": "出海",
+    "stage": "研究观察",
+    "tier": "observation",
+    "evidenceGrade": "D",
+    "businessModel": [
+      "咨询",
+      "海外网站"
+    ],
+    "headline": "出海实务长期分享，缺少本人可审查的年度收入数字",
+    "revenue": {
+      "value": null,
+      "currency": null,
+      "label": "无可核实年度收入",
+      "period": "未披露",
+      "scope": "无可靠年度口径",
+      "attribution": "X 收入贡献未知",
+      "kind": "undisclosed"
+    },
+    "summary": "内容围绕企业出海与营销获客，适合跟踪高价值咨询需求与成交路径。",
+    "mechanism": "SEO / 社交内容 → 行业信任 → 服务线索；收入规模需进一步采访。",
+    "insights": [
+      "可研究受众定位与内容价值，但尚未证实该账号的年收入。",
+      "社交平台影响力和商业盈利能力需要分别检验。"
+    ],
+    "actions": [
+      "阅读公开置顶帖和近期作品，记录可核查的增长与成交线索。",
+      "通过公开案例寻找可验证的获客路径，避免照搬自述的结果。"
+    ],
+    "limitations": [
+      "没有披露完整自然年个人净收入。",
+      "X 对收入的渠道归因未公开。"
+    ],
+    "sources": [
+      {
+        "title": "中文 X 博主榜",
+        "url": "https://x.yuzong.ai/",
+        "type": "第三方目录",
+        "checked": "2026-10-31"
+      },
+      {
+        "title": "X 账号",
+        "url": "https://x.com/tonychuhai",
+        "type": "公开主页",
+        "checked": "2026-10-31"
+      }
+    ],
+    "updatedAt": "2026-10-31",
+    "readMinutes": 5
+  },
+  {
+    "id": "ai-jacksaku",
+    "name": "阿川 AI thinking",
+    "handle": "AI_jacksaku",
+    "initials": "阿",
+    "focus": "AI 工作流、企业应用与成交",
+    "category": "AI",
+    "stage": "研究观察",
+    "tier": "observation",
+    "evidenceGrade": "D",
+    "businessModel": [
+      "咨询",
+      "工作流服务"
+    ],
+    "headline": "有 AI 工作流成交分享，未确认年营收及个人利润",
+    "revenue": {
+      "value": null,
+      "currency": null,
+      "label": "无可核实年度收入",
+      "period": "未披露",
+      "scope": "无可靠年度口径",
+      "attribution": "X 收入贡献未知",
+      "kind": "undisclosed"
+    },
+    "summary": "前策略从业者分享 AI 落地和服务成交，适合研究 ToB 服务型 IP。",
+    "mechanism": "具体工作流成果 → 公开展示 → 客户对话 → 服务交付（收入待证）。",
+    "insights": [
+      "可研究受众定位与内容价值，但尚未证实该账号的年收入。",
+      "社交平台影响力和商业盈利能力需要分别检验。"
+    ],
+    "actions": [
+      "阅读公开置顶帖和近期作品，记录可核查的增长与成交线索。",
+      "通过公开案例寻找可验证的获客路径，避免照搬自述的结果。"
+    ],
+    "limitations": [
+      "没有披露完整自然年个人净收入。",
+      "X 对收入的渠道归因未公开。"
+    ],
+    "sources": [
+      {
+        "title": "中文 X 博主榜",
+        "url": "https://x.yuzong.ai/",
+        "type": "第三方目录",
+        "checked": "2026-10-31"
+      },
+      {
+        "title": "X 账号",
+        "url": "https://x.com/AI_jacksaku",
+        "type": "公开主页",
+        "checked": "2026-10-31"
+      }
+    ],
+    "updatedAt": "2026-10-31",
+    "readMinutes": 5
+  },
+  {
+    "id": "yucheng",
+    "name": "YC Yucheng",
+    "handle": "yucheng",
+    "initials": "Y",
+    "focus": "AI 创业者社区与创作者工具",
+    "category": "出海",
+    "stage": "研究观察",
+    "tier": "observation",
+    "evidenceGrade": "D",
+    "businessModel": [
+      "社群",
+      "创作者工具"
+    ],
+    "headline": "出海创业社群与工具公开，年度营收未披露",
+    "revenue": {
+      "value": null,
+      "currency": null,
+      "label": "无可核实年度收入",
+      "period": "未披露",
+      "scope": "无可靠年度口径",
+      "attribution": "X 收入贡献未知",
+      "kind": "undisclosed"
+    },
+    "summary": "通过社群连接独立开发和 AI 创作者，适合研究长期知识社区的商业模式。",
+    "mechanism": "创业社群 → 资源连接 → 产品和商业合作；财务数字未核实。",
+    "insights": [
+      "可研究受众定位与内容价值，但尚未证实该账号的年收入。",
+      "社交平台影响力和商业盈利能力需要分别检验。"
+    ],
+    "actions": [
+      "阅读公开置顶帖和近期作品，记录可核查的增长与成交线索。",
+      "通过公开案例寻找可验证的获客路径，避免照搬自述的结果。"
+    ],
+    "limitations": [
+      "没有披露完整自然年个人净收入。",
+      "X 对收入的渠道归因未公开。"
+    ],
+    "sources": [
+      {
+        "title": "中文 X 博主榜",
+        "url": "https://x.yuzong.ai/",
+        "type": "第三方目录",
+        "checked": "2026-10-31"
+      },
+      {
+        "title": "X 主页",
+        "url": "https://x.com/yucheng",
+        "type": "公开主页",
+        "checked": "2026-10-31"
+      }
+    ],
+    "updatedAt": "2026-10-31",
+    "readMinutes": 5
+  },
+  {
+    "id": "indie-maker-fox",
+    "name": "indie_maker_fox",
+    "handle": "indie_maker_fox",
+    "initials": "i",
+    "focus": "AI 产品、独立开发与出海指南",
+    "category": "出海",
+    "stage": "研究观察",
+    "tier": "observation",
+    "evidenceGrade": "D",
+    "businessModel": [
+      "建站工具",
+      "教育"
+    ],
+    "headline": "持续分享出海 SaaS 工程实践，没有完整年度收入披露",
+    "revenue": {
+      "value": null,
+      "currency": null,
+      "label": "无可核实年度收入",
+      "period": "未披露",
+      "scope": "无可靠年度口径",
+      "attribution": "X 收入贡献未知",
+      "kind": "undisclosed"
+    },
+    "summary": "技术内容与可复用网站产品并行，适合研究教程型营销漏斗。",
+    "mechanism": "开发教程 → GitHub / 网站 → 用户反馈与产品试用。",
+    "insights": [
+      "可研究受众定位与内容价值，但尚未证实该账号的年收入。",
+      "社交平台影响力和商业盈利能力需要分别检验。"
+    ],
+    "actions": [
+      "阅读公开置顶帖和近期作品，记录可核查的增长与成交线索。",
+      "通过公开案例寻找可验证的获客路径，避免照搬自述的结果。"
+    ],
+    "limitations": [
+      "没有披露完整自然年个人净收入。",
+      "X 对收入的渠道归因未公开。"
+    ],
+    "sources": [
+      {
+        "title": "72 个中文 X 账号目录",
+        "url": "https://www.jxxy.net/ai/articles/72-chinese-x-bloggers/",
+        "type": "第三方目录",
+        "checked": "2026-10-31"
+      },
+      {
+        "title": "X 账号",
+        "url": "https://x.com/indie_maker_fox",
+        "type": "公开主页",
+        "checked": "2026-10-31"
+      }
+    ],
+    "updatedAt": "2026-10-31",
+    "readMinutes": 5
+  },
+  {
+    "id": "zstmfhy",
+    "name": "AI 奶爸",
+    "handle": "zstmfhy",
+    "initials": "奶",
+    "focus": "AI 视频、AIGC 内容",
+    "category": "AI",
+    "stage": "研究观察",
+    "businessModel": [
+      "AI 内容",
+      "商业合作"
+    ],
+    "headline": "公开运营 AI 创作主题账号；收入和利润需要进一步核实",
+    "revenue": {
+      "value": null,
+      "currency": null,
+      "label": "暂无可核实年收入",
+      "period": "未披露",
+      "scope": "公开运营账号的商业模式观察",
+      "attribution": "未核实 X 变现",
+      "kind": "undisclosed"
+    },
+    "summary": "围绕 AI 绘图、视频生成与实用资源生产内容，适合观察中等粉丝体量下的内容分发与商业合作。",
+    "mechanism": "细分 AI 创作主题 → 持续教程和项目分享 → 商业合作可能性；具体成交尚需证据。",
+    "insights": [
+      "技能教程需要展示原始操作步骤和实际产物。",
+      "没有交易或作者披露，就不能推断商业规模。"
+    ],
+    "actions": [
+      "收集 10 篇可确认的高互动教程原帖。",
+      "核对品牌合作、课程或社群是否有公开收费记录。"
+    ],
+    "limitations": [
+      "尚无足以支持年收入判断的可靠来源。",
+      "公开粉丝数据随时间变化，不作为固定收入推算依据。"
+    ],
+    "sources": [
+      {
+        "title": "公开账号资料与简介",
+        "url": "https://xzhishu.com/kol/zstmfhy",
+        "type": "第三方资料",
+        "checked": "2026-10-31"
+      },
+      {
+        "title": "X 公开主页",
+        "url": "https://x.com/zstmfhy",
+        "type": "账号链接",
+        "checked": "2026-10-31"
+      }
+    ],
+    "updatedAt": "2026-10-31",
+    "readMinutes": 3,
+    "tier": "observation",
+    "evidenceGrade": "D"
+  },
+  {
+    "id": "indexsy",
+    "name": "Jacky Chou",
+    "handle": "indexsy",
+    "initials": "JC",
+    "focus": "SEO 服务、AI SaaS 与资产组合公开经营",
+    "category": "SEO / 出海",
+    "stage": "海外对照",
+    "tier": "overseas_benchmark",
+    "evidenceGrade": "B",
+    "businessModel": [
+      "SEO 服务",
+      "多产品 SaaS",
+      "付费社群"
+    ],
+    "headline": "2025 年业务组合营收 292 万美元（本人公开报告，另有部分产品支付流水可查）",
+    "revenue": {
+      "value": null,
+      "currency": "USD",
+      "label": "2025 年约 292 万美元公司业务组合营收（本人自述）",
+      "period": "2025 自然年",
+      "scope": "Indexsy 及相关产品与服务的业务营收，不等于个人利润",
+      "attribution": "X、SEO、YouTube 等多渠道，X 单独收入占比未核实",
+      "kind": "self_report"
+    },
+    "summary": "加拿大的 SEO 产品创业者，长期在英文 X 分享产品收入和运营过程。2025 年自述业务营收达 292 万美元；TrustMRR 展示部分产品支付平台核验的累计流水，但不构成其全部 2025 年度数据的审计。作为海外经营者对照组，不能算作中文区 X 主榜。",
+    "mechanism": "SEO 服务积累行业客户 → 产品化重复需求 → 经营 SaaS/营销社群 → X 公开分享建立信任 → 多渠道持续获客。未发现完整年度 X 单独归因数据。",
+    "insights": [
+      "自然年度收入与 MRR、累计历史流水分开统计，三者不能相加。",
+      "机构服务积累客户需求后，适合选择高重复工作的 SaaS 化环节。",
+      "公开经营数据能增加信任，但不证明某一渠道贡献了全部交易。"
+    ],
+    "actions": [
+      "选一个明确行业，用公开业务问题整理需求与定价。",
+      "以 SEO / X / YouTube 分渠道建立 UTM 追踪。",
+      "季度复盘：新增客户、复购、毛利与付费回收周期，避免只看营收。"
+    ],
+    "limitations": [
+      "收入为创始人自述，非独立审计后的净利润。",
+      "TrustMRR 验证的是部分产品的特定历史及实时指标，不直接核验 2025 全部营收。",
+      "主要经营和表达渠道属于海外英文圈，不作为中文 X 主榜成功案例。"
+    ],
+    "sources": [
+      {
+        "title": "2025 年 292 万美元收入主张与商业信息",
+        "url": "https://indiemakerlist.com/p/jacky-chou/",
+        "type": "第三方整理，标记本人自述",
+        "checked": "2026-10-31"
+      },
+      {
+        "title": "创始人公开收入项目",
+        "url": "https://jackychou.com/open/",
+        "type": "本人公开经营资料（逐月详情有邮件门槛）",
+        "checked": "2026-10-31"
+      },
+      {
+        "title": "TrustMRR：部分产品由支付提供商核验的实时 / 累计数字",
+        "url": "https://trustmrr.com/founder/indexsy",
+        "type": "部分支付流水验证，不是年度审计",
+        "checked": "2026-10-31"
+      },
+      {
+        "title": "X 主页",
+        "url": "https://x.com/indexsy",
+        "type": "官方账号",
+        "checked": "2026-10-31"
+      }
+    ],
+    "updatedAt": "2026-10-31",
+    "readMinutes": 7
+  },
+  {
+    "id": "damonchen",
+    "name": "Damon Chen",
+    "handle": "damonchen",
+    "initials": "DC",
+    "focus": "Testimonial.to 与 PDF.ai 订阅产品增长",
+    "category": "SaaS / 出海",
+    "stage": "海外对照",
+    "tier": "overseas_benchmark",
+    "evidenceGrade": "B",
+    "businessModel": [
+      "SaaS 订阅",
+      "产品内增长",
+      "联盟营销"
+    ],
+    "headline": "2023 年访谈披露两款 SaaS 合计约 130 万美元 ARR；ARR 为年化经常性收入，不能等同全年实际入账",
+    "revenue": {
+      "value": null,
+      "currency": "USD",
+      "label": "约 130 万美元 ARR（年化经常性收入）",
+      "period": "2023 年 11 月披露的时点年化指标",
+      "scope": "两个产品订阅的年度经常性收入运行率（ARR），非年度已确认收入或个人净利润",
+      "attribution": "访谈提及社交媒体获客、产品自增长与联盟，但缺少 X 收入归因",
+      "kind": "self_report"
+    },
+    "summary": "英文 X 独立 SaaS 创业者，旗下 Testimonial.to 与 PDF.ai 曾被访谈披露达到约 130 万美元 ARR。访谈提到最早一批客户来自社区及 X 帖子，同时更强调产品内传播和联盟营销。属于海外对照样本，不计入中文区 X 主榜。",
+    "mechanism": "推出低价早期产品 → 订阅收费 → 产品自带传播标识 → 推荐与联盟获客 → 购买并升级互补 SaaS。",
+    "insights": [
+      "ARR=当前经常性订阅收入年化速率，不能作为某个自然年度的实际营业收入。",
+      "面向产品经理的 B2B 工具可以把用户交付成果变成自然展示入口。",
+      "早期 X 帖子可带来种子客户，但后期增长通常是多渠道组合。"
+    ],
+    "actions": [
+      "识别你的工具是否可以自然展示品牌且不损伤用户体验。",
+      "从第一批 10 个付费客户中记录具体触达来源。",
+      "分开统计 MRR/ARR、到账现金、退款与净利润。"
+    ],
+    "limitations": [
+      "130 万美元 ARR 不是已实现年度收入，更非个人年收入。",
+      "第三方列表出现旧 Handle @damengchen；当前资料列 @damonchen，二者需持续核对。",
+      "海外英文内容生态与中文账号的流量、商业化条件不同。"
+    ],
+    "sources": [
+      {
+        "title": "Peter Yang 与本人访谈：约 130 万美元 ARR（2023）",
+        "url": "https://creatoreconomy.so/p/damon-chen-engineer-to-one-million",
+        "type": "本人访谈原始内容",
+        "checked": "2026-10-31"
+      },
+      {
+        "title": "IndieMakerList：Damon Chen 公开商业资料",
+        "url": "https://indiemakerlist.com/p/damon-chen/",
+        "type": "第三方索引（自述收入）",
+        "checked": "2026-10-31"
+      },
+      {
+        "title": "本人 LinkedIn：两款产品合计 100 万美元 ARR 里程碑",
+        "url": "https://www.linkedin.com/posts/damengchen_testimonial-the-easiest-way-to-collect-activity-7103202308137652224-9k8o",
+        "type": "本人公开声明",
+        "checked": "2026-10-31"
+      },
+      {
+        "title": "X 当前账号链接",
+        "url": "https://x.com/damonchen",
+        "type": "账号身份待持续核验",
+        "checked": "2026-10-31"
+      }
+    ],
+    "updatedAt": "2026-10-31",
+    "readMinutes": 6
+  }
+]

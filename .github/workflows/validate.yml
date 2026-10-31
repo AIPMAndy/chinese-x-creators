@@ -1,0 +1,22 @@
+name: Validate project
+on:
+  push:
+    branches: [main]
+  pull_request:
+jobs:
+  test:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+      - name: Build HTML and Markdown
+        run: |
+          python3 scripts/validate_research.py
+          python3 scripts/build.py
+          python3 scripts/build_cases.py
+      - name: Test
+        run: python3 -m unittest discover -s tests -v
+      - name: Check generated files committed
+        run: git diff --exit-code
