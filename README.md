@@ -1,24 +1,38 @@
 <div align="center">
 
-# 中文 X 千万级商业化研究库
+# 📊 中文 X 千万级商业化研究库
 
 **Chinese X Creator Income Handbook · 开源、可核查、持续维护**
 
 > 研究千万级商业模式，拆解真实收入来源。每个数字都有出处，每一个不确定性都有标注。
 
-[🌐 在线研究网站](https://aipmandy.github.io/chinese-x-creators/) · [ℹ️ 关于项目](docs/about.html) · [📖 X 赚钱保姆级指南](https://github.com/AIPMAndy/x-income-handbook) · [🌱 Andy 官网](https://metaver.vip/) · [💬 服务与微信联系](https://metaver.vip/services)
+[![License: MIT](https://img.shields.io/github/license/AIPMAndy/chinese-x-creators?style=flat-square&color=blue)](LICENSE)
+[![Stars](https://img.shields.io/github/stars/AIPMAndy/chinese-x-creators?style=flat-square&color=f5b301)](https://github.com/AIPMAndy/chinese-x-creators/stargazers)
+[![Last Commit](https://img.shields.io/github/last-commit/AIPMAndy/chinese-x-creators?style=flat-square)](https://github.com/AIPMAndy/chinese-x-creators/commits/main)
+[![Validate](https://img.shields.io/github/actions/workflow/status/AIPMAndy/chinese-x-creators/validate.yml?branch=main&style=flat-square&label=validate)](https://github.com/AIPMAndy/chinese-x-creators/actions/workflows/validate.yml)
+[![Pages](https://img.shields.io/github/actions/workflow/status/AIPMAndy/chinese-x-creators/deploy-pages.yml?branch=main&style=flat-square&label=Pages)](https://github.com/AIPMAndy/chinese-x-creators/actions/workflows/deploy-pages.yml)
+![Python](https://img.shields.io/badge/Python-标准库-3776AB?style=flat-square&logo=python&logoColor=white)
+![Cases](https://img.shields.io/badge/研究档案-29-111827?style=flat-square)
+
+[**🌐 在线研究网站**](https://aipmandy.github.io/chinese-x-creators/) · [ℹ️ 关于项目](docs/about.html) · [📖 X 赚钱保姆级指南](https://github.com/AIPMAndy/x-income-handbook) · [🌱 Andy 官网](https://metaver.vip/) · [💬 服务与微信联系](https://metaver.vip/services)
 
 </div>
 
-> 站点设计预览（以下为早期五案例版本，正式网站由当前 29 个档案自动构建）：
+## 👀 效果预览
 
-![设计预览（早期版本）](docs/assets/preview.webp)
+<div align="center">
+
+<a href="https://aipmandy.github.io/chinese-x-creators/"><img src="docs/screenshot.webp" alt="中文 X 创作者图鉴 网站首页截图" width="860"></a>
+
+<sub>点击图片打开在线版 · <a href="https://aipmandy.github.io/chinese-x-creators/">aipmandy.github.io/chinese-x-creators</a></sub>
+
+</div>
 
 **研究状态：2026-10-31** · **29 位创作者与受访者** · **2 位千万级候选** · **13 条结构化收入主张** · **0 位经过独立验证的个人年净收入千万创作者**。
 
 > ⚠️ **重要说明**：千万候选中的“千万”可能是**公司的历史年度营收**、**采访标题**或**产品业务收入**，目前都不代表 X 平台直接带来的个人税后净利润。不要把本研究当作收益排行榜、财务审计结果或盈利保证。
 
-## 一、优先研究的高营收候选
+## 🔥 一、优先研究的高营收候选
 
 | 对象 | 公开描述 | 判断 | 来源 |
 |---|---|---|---|
@@ -31,7 +45,7 @@
 
 更完整的疑点、追访问题和补证计划见 [千万级候选研究清单](research/ten-million-watchlist.md)。
 
-## 二、已经有收入线索的可复盘案例
+## 💰 二、已经有收入线索的可复盘案例
 
 | 案例 | 金额 / 周期 | 口径 | 研究意义 |
 |---|---|---|---|
@@ -44,7 +58,7 @@
 
 其他账号包括哥飞、sitin、熠辉、邵艾伦、宝玉、歸藏、李继刚等。**没有可靠年度收入数字的只做业务模式研究**。完整列表见 [`data/creators.json`](data/creators.json)。
 
-## 三、研究模型
+## 🧪 三、研究模型
 
 每位创作者统一拆成：
 
@@ -57,7 +71,7 @@
 
 证据分级、冲突规则与准入条件见 [方法论](methodology/evidence-standard.md)。所有收入主张的原始结构化记录见 [`data/revenue_claims.json`](data/revenue_claims.json)，站点还提供 [创作者总表 CSV](docs/data/claims.csv) 和 [逐条收入主张 CSV](docs/data/revenue_claims.csv)。
 
-## 四、网站功能
+## ✨ 四、网站功能
 
 - 创作者名称、X Handle、业务关键词搜索
 - 按垂类、**千万候选 / 百万实战 / 海外对照 / 研究观察**、证据等级筛选
@@ -67,7 +81,7 @@
 - 无外部数据库，无登录，无追踪；基于 Python 标准库构建静态站点
 - 移动端、桌面端兼容；SEO/OG/Schema.org 与 sitemap
 
-## 五、快速运行
+## 🚀 五、快速运行
 
 需要 Python 3.9+，不需要 npm / API Key / 数据库。
 
@@ -81,7 +95,17 @@ python3 -m http.server 8080 --directory docs
 
 浏览 `http://localhost:8080`。
 
-## 六、网站打不开怎么办
+## 🧱 技术栈
+
+| 部分 | 说明 |
+|---|---|
+| 数据 | `data/*.json` 结构化档案与收入主张，导出 CSV |
+| 构建 | Python 标准库脚本（`scripts/build.py`、`build_cases.py`），生成静态站点到 `docs/` |
+| 校验 | `scripts/validate_research.py` + Python unittest（含站内链接检查） |
+| 前端 | 原生 HTML / CSS / JavaScript，无外部数据库、无登录、无追踪 |
+| 部署 | GitHub Actions + GitHub Pages |
+
+## 🛟 六、网站打不开怎么办
 
 **第一步：** 打开 [站点入口](https://aipmandy.github.io/chinese-x-creators/)；如果仍打不开，先用 [GitHub 上的首页 HTML](docs/index.html) 与 [关于项目](docs/about.html) 查看内容（GitHub 的源码预览不会渲染成完整网站）。
 
@@ -91,7 +115,7 @@ python3 -m http.server 8080 --directory docs
 
 **仓库 About（右栏）建议值：** 描述 `中文 X 创作者商业化研究库：公开证据、千万级候选、收入归因与可复制的增长路径。`；Website `https://aipmandy.github.io/chinese-x-creators/`；Topics：`x-twitter`、`creator-economy`、`indie-hackers`、`open-source`、`case-studies`。About 属于仓库设置，需仓库管理员在 About 右侧齿轮填写。
 
-## 七、如何发布 GitHub 仓库
+## 📦 七、如何发布 GitHub 仓库
 
 这是一个**独立开源仓库**，不覆盖已有的 `x-income-handbook`。
 
@@ -107,7 +131,7 @@ bash scripts/publish.sh
 
 **不要在发布前将这个网址当成已上线网站。**
 
-## 八、怎么长期维护
+## 🔁 八、怎么长期维护
 
 - 每周一通过 [GitHub Actions](.github/workflows/weekly-research.yml) 自动创建复核 Issue（需仓库 Actions/Issue 写权限）；该 Issue 是检查清单，不是自动爬虫或自动事实认证。
 - 按 [研究流水线](research/research-pipeline.md) 采集和核验新线索。
@@ -115,7 +139,7 @@ bash scripts/publish.sh
 - 每次修改数据之后运行构建、验证与 CI；来源更新应保留 Git 历史。
 - 收入纠错时优先记录原文、冲突与撤回时间，不擅自篡改历史声称。
 
-## 九、伦理、版权与商业关系
+## ⚖️ 九、伦理、版权与商业关系
 
 本项目只整理公开材料和独立原创分析，不复制博主全文、私下收入截图或未经授权肖像。引用和链接不意味着创作者本人认可本项目。Web3 项目及佣金推广涉及风险和合规义务，不构成投资或监管建议。
 
@@ -123,6 +147,25 @@ X 原 Creator Revenue Sharing 已在 2026 年 9 月停止，当前规则以 [Ori
 
 项目由 [AI 酋长 Andy](https://metaver.vip/) 维护。若需要 AI 产品化、个人 AI+IP、求职辅导或企业获客服务，可从 [官网服务页](https://metaver.vip/services) 联系与获取微信方式。咨询服务与所研究对象无商业背书关系。
 
-## License
+## 📄 License
 
 原创源码与原创研究文本遵循 [MIT License](LICENSE)。第三方内容、商标、截图、人物肖像不在本项目许可范围内。
+
+---
+
+## 👤 作者
+
+<div align="center">
+
+**AI 酋长 Andy** · 星觉科技
+
+前腾讯/百度 AI 产品负责人 → 大模型公司 VP → AI 创业者
+
+[![GitHub](https://img.shields.io/badge/GitHub-AIPMAndy-181717?style=flat-square&logo=github)](https://github.com/AIPMAndy)
+[![X](https://img.shields.io/badge/X-@AIPMAndy-000000?style=flat-square&logo=x)](https://x.com/AIPMAndy)
+![WeChat](https://img.shields.io/badge/微信-AIPMAndy-07C160?style=flat-square&logo=wechat&logoColor=white)
+[![Website](https://img.shields.io/badge/官网-metaver.vip-111827?style=flat-square)](https://metaver.vip/)
+
+觉得有用，欢迎点个 ⭐ Star，也欢迎提 Issue / PR 一起改进。
+
+</div>
