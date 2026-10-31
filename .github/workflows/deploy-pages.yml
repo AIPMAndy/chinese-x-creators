@@ -22,6 +22,10 @@ jobs:
           python3 scripts/build.py
           python3 scripts/build_cases.py
           python3 -m unittest discover -s tests -v
+      - name: Check browser JavaScript syntax
+        run: |
+          node --check docs/assets/app.js
+          node --check docs/assets/research.js
       - name: Configure Pages
         uses: actions/configure-pages@v5
       - name: Upload site artifact
