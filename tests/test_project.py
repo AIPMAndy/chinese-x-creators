@@ -77,11 +77,16 @@ class TestProject(unittest.TestCase):
         for c in DATA:
             self.assertTrue((DOCS/'cases'/f"{c['id']}.html").exists())
     def test_local_links_resolve(self):
-        for path in [DOCS/'index.html',*(DOCS/'cases').glob('*.html')]:
+        for path in [DOCS/'index.html',DOCS/'about.html',DOCS/'404.html',*(DOCS/'cases').glob('*.html')]:
             parser=HrefParser();parser.feed(path.read_text(encoding='utf8'))
             for href in parser.refs:
                 if href.startswith(('https://','http://','#','mailto:')):continue
                 self.assertTrue((path.parent/href.split('#')[0]).exists(),f'{path}: {href}')
+    def test_about_pages_and_deployment(self):
+        self.assertTrue((DOCS/'about.html').exists())
+        self.assertTrue((DOCS/'404.html').exists())
+        self.assertTrue((ROOT/'.github/workflows/deploy-pages.yml').exists())
+        self.assertIn('about.html',(DOCS/'index.html').read_text(encoding='utf8'))
     def test_index_mentions_provenance(self):
         page=(DOCS/'index.html').read_text(encoding='utf8')
         self.assertIn('自述收入未经独立审计',page)

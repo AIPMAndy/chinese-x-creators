@@ -27,14 +27,14 @@ def nav(home=False):
     prefix = "" if home else "../"
     return f'''<a class="skip" href="#main">跳过导航</a><header class="topbar"><div class="wrap nav">
       <a class="brand" href="{prefix}index.html" aria-label="返回首页"><span class="brandmark">X</span><span>中文 X 创作者图鉴</span></a>
-      <nav class="navlinks" aria-label="主导航"><a href="{prefix}index.html#cases">案例库</a><a href="{prefix}index.html#method">研究方法</a><a href="{prefix}data/claims.csv">收入证据表</a><a href="{safe_url(CFG['otherOpenSource'])}" target="_blank" rel="noopener noreferrer">保姆级教程</a><a class="navcta" href="{safe_url(CFG['officialWebsite'])}" target="_blank" rel="noopener noreferrer">认识 Andy ↗</a></nav>
+      <nav class="navlinks" aria-label="主导航"><a href="{prefix}index.html#cases">案例库</a><a href="{prefix}index.html#method">研究方法</a><a href="{prefix}about.html">关于项目</a><a href="{prefix}data/claims.csv">收入证据表</a><a href="{safe_url(CFG['otherOpenSource'])}" target="_blank" rel="noopener noreferrer">保姆级教程</a><a class="navcta" href="{safe_url(CFG['officialWebsite'])}" target="_blank" rel="noopener noreferrer">认识 Andy ↗</a></nav>
     </div></header>'''
 
 
 def footer(home=False):
     prefix = "" if home else "../"
     return f'''<footer class="footer"><div class="wrap footer-inner"><span>© 2026 AI 酋长 Andy · 基于公开资料整理 · 收入不代表收益承诺</span>
-      <div class="footer-links"><a href="{prefix}index.html#method">证据标准</a><a href="{safe_url(CFG['officialWebsite'])}" target="_blank" rel="noopener noreferrer">官方网站</a><a href="{safe_url(CFG['serviceUrl'])}" target="_blank" rel="noopener noreferrer">咨询 / 微信联系</a><a href="https://github.com/{esc(CFG['githubOwner'])}/{esc(CFG['repo'])}" target="_blank" rel="noopener noreferrer">GitHub</a></div>
+      <div class="footer-links"><a href="{prefix}index.html#method">证据标准</a><a href="{prefix}about.html">关于项目</a><a href="{safe_url(CFG['officialWebsite'])}" target="_blank" rel="noopener noreferrer">官方网站</a><a href="{safe_url(CFG['serviceUrl'])}" target="_blank" rel="noopener noreferrer">咨询 / 微信联系</a><a href="https://github.com/{esc(CFG['githubOwner'])}/{esc(CFG['repo'])}" target="_blank" rel="noopener noreferrer">GitHub</a></div>
     </div></footer>'''
 
 
@@ -141,9 +141,11 @@ def main():
         writer.writeheader()
         for claim in claims:writer.writerow(claim)
     (OUT/'index.html').write_text(home(),encoding='utf8')
+    for extra in ('about.html','404.html'):
+        (OUT/extra).write_text((ROOT/'templates'/('site-'+extra)).read_text(encoding='utf8'),encoding='utf8')
     for c in CREATORS:
         (OUT/'cases'/f'{c["id"]}.html').write_text(detail(c),encoding='utf8')
-    targets=[CFG['siteUrl']]+[CFG['siteUrl']+f'cases/{c["id"]}.html' for c in CREATORS]
+    targets=[CFG['siteUrl'],CFG['siteUrl']+'about.html']+[CFG['siteUrl']+f'cases/{c["id"]}.html' for c in CREATORS]
     xml='<?xml version="1.0" encoding="UTF-8"?>\n<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">\n'+''.join(f'  <url><loc>{esc(u)}</loc><lastmod>2026-10-31</lastmod></url>\n' for u in targets)+'</urlset>\n'
     (OUT/'sitemap.xml').write_text(xml,encoding='utf8')
     (OUT/'robots.txt').write_text('User-agent: *\nAllow: /\nSitemap: '+CFG['siteUrl']+'sitemap.xml\n',encoding='utf8')
