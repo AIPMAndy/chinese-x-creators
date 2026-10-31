@@ -14,7 +14,7 @@
 ![Python](https://img.shields.io/badge/Python-标准库-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Cases](https://img.shields.io/badge/研究档案-29-111827?style=flat-square)
 
-[**🌐 在线研究网站**](https://aipmandy.github.io/chinese-x-creators/) · [ℹ️ 关于项目](docs/about.html) · [📖 X 赚钱保姆级指南](https://github.com/AIPMAndy/x-income-handbook) · [🌱 Andy 官网](https://metaver.vip/) · [💬 服务与微信联系](https://metaver.vip/services)
+[**🌐 在线研究网站**](https://aipmandy.github.io/chinese-x-creators/) · [🧾 收入证据账本](https://aipmandy.github.io/chinese-x-creators/evidence.html) · [⚖️ 双人对比](https://aipmandy.github.io/chinese-x-creators/compare.html) · [ℹ️ 关于项目](docs/about.html) · [📖 X 赚钱保姆级指南](https://github.com/AIPMAndy/x-income-handbook) · [🌱 Andy 官网](https://metaver.vip/) · [💬 服务与微信联系](https://metaver.vip/services)
 
 </div>
 
@@ -31,6 +31,13 @@
 **研究状态：2026-10-31** · **29 位创作者与受访者** · **2 位千万级候选** · **13 条结构化收入主张** · **0 位经过独立验证的个人年净收入千万创作者**。
 
 > ⚠️ **重要说明**：千万候选中的“千万”可能是**公司的历史年度营收**、**采访标题**或**产品业务收入**，目前都不代表 X 平台直接带来的个人税后净利润。不要把本研究当作收益排行榜、财务审计结果或盈利保证。
+
+## V3 · 研究工具与数据维护
+
+- [收入证据账本](https://aipmandy.github.io/chinese-x-creators/evidence.html)：逐条展示公开收入主张，支持证据等级和收入类型筛选，每条标出来源、统计期间、收入主体与限制。
+- [创作者双人对比](https://aipmandy.github.io/chinese-x-creators/compare.html)：比较定位、商业链路与证据等级，不做收入排名。
+- [首页案例库](https://aipmandy.github.io/chinese-x-creators/)：手机可直接使用全部导航。
+- 维护方法：修改 `data/creators.json` 或 `data/revenue_claims.json` 后运行 `python3 scripts/build.py` 和 `python3 scripts/build_cases.py`，提交生成的 `docs/` 文件。
 
 ## 🔥 一、优先研究的高营收候选
 

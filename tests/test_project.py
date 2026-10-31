@@ -87,6 +87,21 @@ class TestProject(unittest.TestCase):
         self.assertTrue((DOCS/'404.html').exists())
         self.assertTrue((ROOT/'.github/workflows/deploy-pages.yml').exists())
         self.assertIn('about.html',(DOCS/'index.html').read_text(encoding='utf8'))
+    def test_research_pages_match_source(self):
+        for name in ('creators.json','revenue_claims.json'):
+            self.assertEqual((DOCS/'data'/name).read_bytes(),(ROOT/'data'/name).read_bytes())
+        for name in ('evidence.html','compare.html'):
+            self.assertEqual((DOCS/name).read_bytes(),(ROOT/'templates'/('site-'+name)).read_bytes())
+            self.assertIn('assets/research.js',(DOCS/name).read_text(encoding='utf8'))
+        for page in [DOCS/'index.html',*(DOCS/'cases').glob('*.html')]:
+            prefix='../' if page.parent.name=='cases' else ''
+            s=page.read_text(encoding='utf8')
+            self.assertIn('href="'+prefix+'evidence.html"',s)
+            self.assertIn('href="'+prefix+'compare.html"',s)
+        site=(DOCS/'sitemap.xml').read_text(encoding='utf8')
+        self.assertIn('evidence.html',site)
+        self.assertIn('compare.html',site)
+
     def test_index_mentions_provenance(self):
         page=(DOCS/'index.html').read_text(encoding='utf8')
         self.assertIn('自述收入未经独立审计',page)
