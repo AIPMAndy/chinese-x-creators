@@ -61,7 +61,7 @@ def card(c):
 
 
 def home():
-    complete=sum(1 for c in CREATORS if c['stage'] in ('千万级候选','百万级实战','百万以下实战'))
+    complete=len({claim['creator_id'] for claim in json.loads((ROOT/'data/revenue_claims.json').read_text(encoding='utf8'))})
     candidates=len(CREATORS)-complete
     ten=sum(1 for c in CREATORS if c['stage']=='千万级候选')
     cards='\n'.join(card(c) for c in CREATORS)
@@ -72,7 +72,7 @@ def home():
         <p>中文 X 商业化研究库。重点追踪年营收千万级创作者，独立设置海外英文圈对照组。个人净收入、公司营收、产品流水、X 的独立贡献，逐项严格区分。</p>
         <div class="hero-actions"><a class="button primary" href="#cases">开始探索案例 <span aria-hidden="true">↗</span></a><a class="button secondary" href="https://github.com/{esc(CFG['githubOwner'])}/{esc(CFG['repo'])}" target="_blank" rel="noopener noreferrer">GitHub 开源仓库 ↗</a></div>
         <span class="hero-note">所有金额均标注来源、期间与归属。自述收入未经独立审计。</span>
-        <div class="statbar"><div><strong>{len(CREATORS):02d}</strong><span>研究档案</span></div><div><strong>{ten:02d}</strong><span>千万营收候选 / 非审计认证</span></div><div><strong>{complete:02d}</strong><span>含公开收入主张的档案</span></div></div>
+        <div class="statbar"><div><strong>{len(CREATORS):02d}</strong><span>研究档案</span></div><div><strong>{ten:02d}</strong><span>千万营收候选 / 非审计认证</span></div><div><strong>{complete:02d}</strong><span>有收入主张的研究对象</span></div></div>
       </section></div>
       <section class="section" id="cases"><div class="wrap"><div class="section-header"><div><span class="eyebrow">CASE LIBRARY</span><h2 class="section-title">公开证据比头衔更重要。</h2><p class="section-subtitle">“年入千万”先过三道关：①收入是个人还是公司 ②实际年度还是年化估算 ③X贡献有无明确证据。当前没有独立审计支持的个人年净收千万案例。</p></div><span class="counter">显示 <span id="visible-count">{len(CREATORS)}</span> / {len(CREATORS)}</span></div>
       <div class="toolbar"><label class="searchbox"><svg width="17" height="17" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" aria-hidden="true"><circle cx="11" cy="11" r="7"/><path d="m16 16 5 5"/></svg><input id="search" type="search" placeholder="搜索人名、账号、变现模式…" aria-label="搜索创作者"></label>
