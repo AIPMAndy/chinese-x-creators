@@ -130,14 +130,14 @@ def main():
     import csv
     (OUT/'data').mkdir(parents=True,exist_ok=True)
     with (OUT/'data'/'claims.csv').open('w',encoding='utf-8-sig',newline='') as f:
-        writer=csv.writer(f)
+        writer=csv.writer(f,lineterminator='\n')
         writer.writerow(['id','name','handle','stage','evidence_grade','claim','period','scope','x_attribution','value_CNY_if_observed','first_source','last_checked'])
         for c in CREATORS:
             r=c['revenue'];writer.writerow([c['id'],c['name'],c.get('handle',''),c['stage'],c.get('evidenceGrade','D'),r['label'],r['period'],r['scope'],r['attribution'],r['value'] if r['currency']=='CNY' and r['value'] is not None else '',c['sources'][0]['url'],c['updatedAt']])
     claims=json.loads((ROOT/'data/revenue_claims.json').read_text(encoding='utf8'))
     with (OUT/'data'/'revenue_claims.csv').open('w',encoding='utf-8-sig',newline='') as f:
         fieldnames=['id','creator_id','claim','amount','currency','comparator','period','metric_type','reporting_entity','evidence_grade','source_url','source_date','verified_at','x_attribution','caveat']
-        writer=csv.DictWriter(f,fieldnames=fieldnames,extrasaction='ignore')
+        writer=csv.DictWriter(f,fieldnames=fieldnames,extrasaction='ignore',lineterminator='\n')
         writer.writeheader()
         for claim in claims:writer.writerow(claim)
     (OUT/'index.html').write_text(home(),encoding='utf8')

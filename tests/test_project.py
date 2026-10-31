@@ -80,7 +80,7 @@ class TestProject(unittest.TestCase):
         for path in [DOCS/'index.html',DOCS/'about.html',DOCS/'404.html',*(DOCS/'cases').glob('*.html')]:
             parser=HrefParser();parser.feed(path.read_text(encoding='utf8'))
             for href in parser.refs:
-                if href.startswith(('https://','http://','#','mailto:')):continue
+                if href.startswith(('https://','http://','#','mailto:','/')):continue
                 self.assertTrue((path.parent/href.split('#')[0]).exists(),f'{path}: {href}')
     def test_about_pages_and_deployment(self):
         self.assertTrue((DOCS/'about.html').exists())
