@@ -102,6 +102,19 @@ class TestProject(unittest.TestCase):
         self.assertIn('evidence.html',site)
         self.assertIn('compare.html',site)
 
+    def test_investigation_lead_quarantine(self):
+        leads=json.loads((ROOT/'data/investigation_leads.json').read_text(encoding='utf8'))
+        self.assertGreaterEqual(len(leads),3)
+        ids={c['id'] for c in DATA}
+        self.assertTrue(all(x['id'] not in ids for x in leads))
+        self.assertTrue(all(x['x_attribution']!='verified' for x in leads))
+        page=(DOCS/'investigations.html').read_text(encoding='utf8')
+        for lead in leads:
+            self.assertIn('id="'+lead['id']+'"',page)
+            self.assertTrue(all(s['url'].startswith('https://') for s in lead['source_urls']))
+        self.assertIn('investigations.html',(DOCS/'about.html').read_text(encoding='utf8'))
+        self.assertIn('investigations.html',(ROOT/'README.md').read_text(encoding='utf8'))
+
     def test_index_mentions_provenance(self):
         page=(DOCS/'index.html').read_text(encoding='utf8')
         self.assertIn('自述收入未经独立审计',page)

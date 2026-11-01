@@ -14,7 +14,7 @@
 ![Python](https://img.shields.io/badge/Python-标准库-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Cases](https://img.shields.io/badge/研究档案-29-111827?style=flat-square)
 
-[**🌐 在线研究网站**](https://aipmandy.github.io/chinese-x-creators/) · [🧾 收入证据账本](https://aipmandy.github.io/chinese-x-creators/evidence.html) · [⚖️ 双人对比](https://aipmandy.github.io/chinese-x-creators/compare.html) · [ℹ️ 关于项目](docs/about.html) · [📖 X 赚钱保姆级指南](https://github.com/AIPMAndy/x-income-handbook) · [🌱 Andy 官网](https://metaver.vip/) · [💬 服务与微信联系](https://metaver.vip/services)
+[**🌐 在线研究网站**](https://aipmandy.github.io/chinese-x-creators/) · [🔎 千万级调查线索](https://aipmandy.github.io/chinese-x-creators/investigations.html) · [🧾 收入证据账本](https://aipmandy.github.io/chinese-x-creators/evidence.html) · [⚖️ 双人对比](https://aipmandy.github.io/chinese-x-creators/compare.html) · [ℹ️ 关于项目](docs/about.html) · [📖 X 赚钱保姆级指南](https://github.com/AIPMAndy/x-income-handbook) · [🌱 Andy 官网](https://metaver.vip/) · [💬 服务与微信联系](https://metaver.vip/services)
 
 </div>
 
@@ -31,6 +31,14 @@
 **研究状态：2026-10-31** · **29 位创作者与受访者** · **2 位千万级候选** · **13 条结构化收入主张** · **0 位经过独立验证的个人年净收入千万创作者**。
 
 > ⚠️ **重要说明**：千万候选中的“千万”可能是**公司的历史年度营收**、**采访标题**或**产品业务收入**，目前都不代表 X 平台直接带来的个人税后净利润。不要把本研究当作收益排行榜、财务审计结果或盈利保证。
+
+## V4 · 新的千万级线索调查（2026-11-01）
+
+本轮另外追踪 **3 项公开千万级相关主张**，其中 Michael Guan 的 X 身份已确认但营收为 ARR 且主要在英语市场；HiWaifu 创始人公布了 2024 年营收但 X 身份未核；Jacky Chou 是已收录的海外对照，新增原始官网核查。**这三条是调查线索，不计入正式 29 位中文 X 创作者主榜，也不与已有 13 条收入主张叠加。**
+
+- [🔎 研究调查页面](https://aipmandy.github.io/chinese-x-creators/investigations.html) · [结构化数据](data/investigation_leads.json)
+- [证据及问题日志](research/investigation-log-2026-11-01.md)：归属主体、ARR 与实收区别、独立来源和账号归因。
+- `scripts/validate_research.py` 对调查线索执行自动结构及分类检查，严禁把没有 X 身份的公司业绩算作 X 运营收入。
 
 ## V3 · 研究工具与数据维护
 

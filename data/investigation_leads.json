@@ -1,0 +1,103 @@
+[
+  {
+    "id": "michael-guan-finalround",
+    "name": "Michael Guan · Final Round AI",
+    "category": "华人出海创业者 / 英语 X 对照",
+    "claim": "创始人公开称 Final Round AI 达到约 1,000 万美元 ARR",
+    "amount": 10000000,
+    "currency": "USD",
+    "comparator": "~",
+    "period": "2025 年公开时点；属于年度经常性收入运行率",
+    "metric_type": "arr_run_rate",
+    "reporting_entity": "Final Round AI 公司订阅业务",
+    "evidence_grade": "B",
+    "x_handle": "dralaska_",
+    "x_identity": "matched",
+    "x_attribution": "not_established",
+    "admission": "overseas_comparison_pending",
+    "source_urls": [
+      {
+        "title": "本人 LinkedIn 公开奖励与 ARR 陈述",
+        "url": "https://www.linkedin.com/posts/michael-guan-522278105_worktrial-jobtrial-ai-activity-7379185477637054464-c_p0",
+        "type": "本人原话"
+      },
+      {
+        "title": "本人 X 账号公开贴文转载记录",
+        "url": "https://www.sotwe.com/dralaska_?lang=en",
+        "type": "X 帖子可回查摘要"
+      },
+      {
+        "title": "晚点聊创始人访谈",
+        "url": "https://www.xiaoyuzhoufm.com/episode/689d4f24b85e0f89684a2cfe",
+        "type": "中文采访"
+      }
+    ],
+    "caveat": "ARR 是年化订阅运行率，不代表完整年度实际到账、公司净利润或创始人个人收入；X 导流贡献未知。X 内容面向英语市场，暂不列为中文 X 主榜。",
+    "next_check": "核对 ARR 截止月、退款和订阅口径，寻找带 UTM 的 X 获客拆分；明确其中文内容发布频率。",
+    "checked_at": "2026-11-01"
+  },
+  {
+    "id": "hiwaifu-taojiang",
+    "name": "陶江 · HiWaifu",
+    "category": "中国 AI 出海公司 / 尚未绑定 X 账号",
+    "claim": "2025 年 6 月受访称，2024 年 HiWaifu 公司收入超过 2,000 万元人民币",
+    "amount": 20000000,
+    "currency": "CNY",
+    "comparator": ">",
+    "period": "2024 自然年度（2025 年 6 月报道回顾“去年”）",
+    "metric_type": "company_revenue",
+    "reporting_entity": "HiWaifu 产品经营团队/公司",
+    "evidence_grade": "B",
+    "x_handle": "",
+    "x_identity": "unverified",
+    "x_attribution": "not_established",
+    "admission": "company_research_only",
+    "source_urls": [
+      {
+        "title": "白鲸出海 2025-06-03 创始人专访",
+        "url": "https://www.baijing.cn/article/52888",
+        "type": "本人受访"
+      },
+      {
+        "title": "同期转载，供交叉核对原文",
+        "url": "https://www.sohu.com/a/901421994_227984",
+        "type": "同源转载，非独立审计"
+      }
+    ],
+    "caveat": "金额属于企业营业收入自述，并无审计材料，无法推出税后个人净收入。尚未核实陶江个人 X 账号或 X 导流数据；不属于当前 X 创作者主榜。",
+    "next_check": "核验企业主体、年度收入区间与利润口径；仅在取得可靠 X Handle 和实际归因后考虑加入 X 账号库。",
+    "checked_at": "2026-11-01"
+  },
+  {
+    "id": "jacky-chou-indexsy",
+    "name": "Jacky Chou · Indexsy",
+    "category": "英语 X 规模化经营对照 / 已有正式档案",
+    "claim": "创始人官网披露：2025 年经营组合营业收入约 292 万美元",
+    "amount": 2920000,
+    "currency": "USD",
+    "comparator": "~",
+    "period": "2025 年自然年度",
+    "metric_type": "business_revenue",
+    "reporting_entity": "Indexsy 及旗下多项产品与服务的经营组合",
+    "evidence_grade": "B",
+    "x_handle": "indexsy",
+    "x_identity": "matched",
+    "x_attribution": "related_unquantified",
+    "admission": "existing_overseas_comparison",
+    "source_urls": [
+      {
+        "title": "Jacky Chou 本人官网 · 2025 revenue",
+        "url": "https://jackychou.com/",
+        "type": "本人披露"
+      },
+      {
+        "title": "IndieMakerList 整理与说明",
+        "url": "https://indiemakerlist.com/p/jacky-chou/",
+        "type": "第三方资料，未审计全年总额"
+      }
+    ],
+    "caveat": "完整年度的组合业务营收，不是 X 内容付费收入，也不是创始人净利润；第三方支付验证只覆盖部分产品，不能证明该组合总额。已有海外对照案例，不重复计入主榜。",
+    "next_check": "索取可公开的年度业务分线数据及 X 客户来源；保留部分产品支付证据与组合营收的范围差异。",
+    "checked_at": "2026-11-01"
+  }
+]

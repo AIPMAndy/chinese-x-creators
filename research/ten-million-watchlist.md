@@ -53,3 +53,12 @@
 ## 仍待识别 X 账号的高营收企业案例
 
 2026 年播客访谈中有营销公司创始人 Lysa 的年收入“小几千万”说法（[原始访谈](https://www.xiaoyuzhoufm.com/episode/6a190b8ffb7e110df7da17ef)）；**当前没有找到可信的个人 X Handle 及 X 导流证据，不纳入创作者统计，避免误将出海公司收入算成 X 运营者收入。**
+
+
+## 2026-11-01 扩展：高营收调查线索（**不增加主榜人数**）
+
+- **Michael Guan / Final Round AI**：本人公开陈述达到 **1000 万美元 ARR**；对应 [X @dralaska_](https://x.com/dralaska_)，但主要用英语发布，缺少 X 获客归因。[本人 LinkedIn](https://www.linkedin.com/posts/michael-guan-522278105_worktrial-jobtrial-ai-activity-7379185477637054464-c_p0) · [中文访谈](https://www.xiaoyuzhoufm.com/episode/689d4f24b85e0f89684a2cfe)。ARR 只代表时点订阅年化运行率。
+- **陶江 / HiWaifu**：2025 年本人接受 [白鲸出海采访](https://www.baijing.cn/article/52888)，称 2024 年营业收入超过 2000 万元；没有核对到其个人 X 账号，因此不纳入 X 创作者名单。
+- **Jacky Chou / Indexsy**：[本人官网](https://jackychou.com/) 公布 2025 年 292 万美元业务组合收入；属于海外英语 X 经营对照，X 单渠道贡献未知。不能把第三方产品支付验证误认为全部全年营收审计。
+
+完整研究过程见 [本轮调查记录](investigation-log-2026-11-01.md)，也可浏览 [网站调查页](https://aipmandy.github.io/chinese-x-creators/investigations.html)。
