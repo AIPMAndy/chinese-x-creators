@@ -151,7 +151,7 @@ def main():
         (OUT/extra).write_text((ROOT/'templates'/('site-'+extra)).read_text(encoding='utf8'),encoding='utf8')
     for c in CREATORS:
         (OUT/'cases'/f'{c["id"]}.html').write_text(detail(c),encoding='utf8')
-    targets=[CFG['siteUrl'],CFG['siteUrl']+'about.html',CFG['siteUrl']+'evidence.html',CFG['siteUrl']+'compare.html']+[CFG['siteUrl']+f'cases/{c["id"]}.html' for c in CREATORS]
+    targets=[CFG['siteUrl'],CFG['siteUrl']+'about.html',CFG['siteUrl']+'evidence.html',CFG['siteUrl']+'compare.html',CFG['siteUrl']+'investigations.html']+[CFG['siteUrl']+f'cases/{c["id"]}.html' for c in CREATORS]
     xml='<?xml version="1.0" encoding="UTF-8"?>\n<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">\n'+''.join(f'  <url><loc>{esc(u)}</loc><lastmod>2026-10-31</lastmod></url>\n' for u in targets)+'</urlset>\n'
     (OUT/'sitemap.xml').write_text(xml,encoding='utf8')
     (OUT/'robots.txt').write_text('User-agent: *\nAllow: /\nSitemap: '+CFG['siteUrl']+'sitemap.xml\n',encoding='utf8')

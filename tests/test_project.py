@@ -113,6 +113,7 @@ class TestProject(unittest.TestCase):
             self.assertIn('id="'+lead['id']+'"',page)
             self.assertTrue(all(s['url'].startswith('https://') for s in lead['source_urls']))
         self.assertIn('investigations.html',(DOCS/'about.html').read_text(encoding='utf8'))
+        self.assertIn('investigations.html',(DOCS/'sitemap.xml').read_text(encoding='utf8'))
         self.assertIn('investigations.html',(ROOT/'README.md').read_text(encoding='utf8'))
 
     def test_index_mentions_provenance(self):
