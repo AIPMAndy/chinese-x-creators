@@ -1,0 +1,424 @@
+{
+  "review_week": "2026-11-02",
+  "checked_at": "2026-11-04",
+  "method": "公开网页文本抓取；readable 仅表示正文可读。访问受限、动态加载和删除分别处理；未发现可确认的删除或 404。",
+  "sources": [
+    {
+      "url": "https://creatoreconomy.so/p/damon-chen-engineer-to-one-million",
+      "checked_at": "2026-11-04",
+      "status": "partial_paywall",
+      "observation": "公开访谈可读；PDF.ai 后续章节需付费，未读取付费部分。"
+    },
+    {
+      "url": "https://elsewhere.news/zh/crossing/claude-code-ai",
+      "checked_at": "2026-11-04",
+      "status": "readable",
+      "observation": "抓取到正文；可达不代表收入已确认。"
+    },
+    {
+      "url": "https://gefei.net/zh/",
+      "checked_at": "2026-11-04",
+      "status": "readable",
+      "observation": "抓取到正文；可达不代表收入已确认。"
+    },
+    {
+      "url": "https://haowenji.com/articles/x-2112951083874344961",
+      "checked_at": "2026-11-04",
+      "status": "readable",
+      "observation": "抓取到正文；可达不代表收入已确认。"
+    },
+    {
+      "url": "https://indiemakerlist.com/p/damon-chen/",
+      "checked_at": "2026-11-04",
+      "status": "readable",
+      "observation": "抓取到正文；可达不代表收入已确认。"
+    },
+    {
+      "url": "https://indiemakerlist.com/p/jacky-chou/",
+      "checked_at": "2026-11-04",
+      "status": "readable",
+      "observation": "抓取到正文；可达不代表收入已确认。"
+    },
+    {
+      "url": "https://jackychou.com/",
+      "checked_at": "2026-11-04",
+      "status": "readable",
+      "observation": "抓取到正文；可达不代表收入已确认。"
+    },
+    {
+      "url": "https://jackychou.com/open/",
+      "checked_at": "2026-11-04",
+      "status": "partial_email_gate",
+      "observation": "公开页要求邮箱解锁逐月数据，未取得月度账本。"
+    },
+    {
+      "url": "https://sopilot.net/zh/rank/creators/AlanShao111",
+      "checked_at": "2026-11-04",
+      "status": "readable",
+      "observation": "抓取到正文；可达不代表收入已确认。"
+    },
+    {
+      "url": "https://teapawt.net/gkxspace",
+      "checked_at": "2026-11-04",
+      "status": "claim_not_located",
+      "observation": "主页可读，但本次未定位 2026-09-17 的 50 万元收入原帖；不能视作撤回。"
+    },
+    {
+      "url": "https://teapawt.net/sitinme",
+      "checked_at": "2026-11-04",
+      "status": "readable",
+      "observation": "抓取到正文；可达不代表收入已确认。"
+    },
+    {
+      "url": "https://teapawt.net/utoolai",
+      "checked_at": "2026-11-04",
+      "status": "readable",
+      "observation": "抓取到正文；可达不代表收入已确认。"
+    },
+    {
+      "url": "https://trustmrr.com/founder/indexsy",
+      "checked_at": "2026-11-04",
+      "status": "readable",
+      "observation": "抓取到正文；可达不代表收入已确认。"
+    },
+    {
+      "url": "https://twkit.io/longform",
+      "checked_at": "2026-11-04",
+      "status": "content_unavailable",
+      "observation": "仅返回 TwKit / 正在载入，未见 Skillry 收入主张。"
+    },
+    {
+      "url": "https://www.10100.com/article/152577813",
+      "checked_at": "2026-11-04",
+      "status": "readable",
+      "observation": "抓取到正文；可达不代表收入已确认。"
+    },
+    {
+      "url": "https://www.baijing.cn/article/52888",
+      "checked_at": "2026-11-04",
+      "status": "readable",
+      "observation": "抓取到正文；可达不代表收入已确认。"
+    },
+    {
+      "url": "https://www.bilibili.com/video/BV1WuQJYFEPr/",
+      "checked_at": "2026-11-04",
+      "status": "access_unavailable",
+      "observation": "Failed to fetch https://www.bilibili.com/video/BV1WuQJYFEPr/: (412) Precondition Failed"
+    },
+    {
+      "url": "https://www.infoq.cn/article/07MyWmhiocSah2m9EqOt",
+      "checked_at": "2026-11-04",
+      "status": "readable",
+      "observation": "抓取到正文；可达不代表收入已确认。"
+    },
+    {
+      "url": "https://www.jxxy.net/ai/articles/72-chinese-x-bloggers/",
+      "checked_at": "2026-11-04",
+      "status": "readable",
+      "observation": "抓取到正文；可达不代表收入已确认。"
+    },
+    {
+      "url": "https://www.jxxy.net/ai/articles/cn-indie-devs-directory/",
+      "checked_at": "2026-11-04",
+      "status": "readable",
+      "observation": "抓取到正文；可达不代表收入已确认。"
+    },
+    {
+      "url": "https://www.linkedin.com/posts/damengchen_testimonial-the-easiest-way-to-collect-activity-7103202308137652224-9k8o",
+      "checked_at": "2026-11-04",
+      "status": "readable",
+      "observation": "抓取到正文；可达不代表收入已确认。"
+    },
+    {
+      "url": "https://www.linkedin.com/posts/michael-guan-522278105_worktrial-jobtrial-ai-activity-7379185477637054464-c_p0",
+      "checked_at": "2026-11-04",
+      "status": "readable",
+      "observation": "抓取到正文；可达不代表收入已确认。"
+    },
+    {
+      "url": "https://www.panewslab.com/zh/articles/d38439d0-bafa-49dd-807b-584b09c7017e",
+      "checked_at": "2026-11-04",
+      "status": "readable",
+      "observation": "抓取到正文；可达不代表收入已确认。"
+    },
+    {
+      "url": "https://www.sohu.com/a/901421994_227984",
+      "checked_at": "2026-11-04",
+      "status": "readable",
+      "observation": "抓取到正文；可达不代表收入已确认。"
+    },
+    {
+      "url": "https://www.sotwe.com/dralaska_?lang=en",
+      "checked_at": "2026-11-04",
+      "status": "access_unavailable",
+      "observation": "URL https://www.sotwe.com/dralaska_?lang=en is not accessible via this tool."
+    },
+    {
+      "url": "https://www.xiaoyuzhoufm.com/episode/67c07fdc05a90dfd0d4c8ccb",
+      "checked_at": "2026-11-04",
+      "status": "readable",
+      "observation": "抓取到正文；可达不代表收入已确认。"
+    },
+    {
+      "url": "https://www.xiaoyuzhoufm.com/episode/689d4f24b85e0f89684a2cfe",
+      "checked_at": "2026-11-04",
+      "status": "readable",
+      "observation": "抓取到正文；可达不代表收入已确认。"
+    },
+    {
+      "url": "https://www.xiaoyuzhoufm.com/episode/6a5abea0a3fec224d59f51cb",
+      "checked_at": "2026-11-04",
+      "status": "readable",
+      "observation": "抓取到正文；可达不代表收入已确认。"
+    },
+    {
+      "url": "https://x.com/AI_Jasonyu",
+      "checked_at": "2026-11-04",
+      "status": "access_unavailable",
+      "observation": "Failed to fetch https://x.com/AI_Jasonyu: (403) Forbidden"
+    },
+    {
+      "url": "https://x.com/AI_jacksaku",
+      "checked_at": "2026-11-04",
+      "status": "access_unavailable",
+      "observation": "Failed to fetch https://x.com/AI_jacksaku: (403) Forbidden"
+    },
+    {
+      "url": "https://x.com/AlanShao111",
+      "checked_at": "2026-11-04",
+      "status": "access_unavailable",
+      "observation": "Failed to fetch https://x.com/AlanShao111: (403) Forbidden"
+    },
+    {
+      "url": "https://x.com/DtDt666",
+      "checked_at": "2026-11-04",
+      "status": "access_unavailable",
+      "observation": "Failed to fetch https://x.com/DtDt666: (403) Forbidden"
+    },
+    {
+      "url": "https://x.com/DtDt666/status/2007698288347410635",
+      "checked_at": "2026-11-04",
+      "status": "access_unavailable",
+      "observation": "Failed to fetch https://x.com/DtDt666/status/2007698288347410635: (403) Forbidden"
+    },
+    {
+      "url": "https://x.com/GoSailGlobal",
+      "checked_at": "2026-11-04",
+      "status": "access_unavailable",
+      "observation": "Failed to fetch https://x.com/GoSailGlobal: (403) Forbidden"
+    },
+    {
+      "url": "https://x.com/JessiCao_JC",
+      "checked_at": "2026-11-04",
+      "status": "access_unavailable",
+      "observation": "Failed to fetch https://x.com/JessiCao_JC: DisabledError"
+    },
+    {
+      "url": "https://x.com/JessiCao_JC/status/2113478290661163067",
+      "checked_at": "2026-11-04",
+      "status": "access_unavailable",
+      "observation": "Failed to fetch https://x.com/JessiCao_JC/status/2113478290661163067: (403) Forbidden"
+    },
+    {
+      "url": "https://x.com/Khazix0918",
+      "checked_at": "2026-11-04",
+      "status": "access_unavailable",
+      "observation": "Failed to fetch https://x.com/Khazix0918: (403) Forbidden"
+    },
+    {
+      "url": "https://x.com/blankwebdev",
+      "checked_at": "2026-11-04",
+      "status": "access_unavailable",
+      "observation": "Failed to fetch https://x.com/blankwebdev: (403) Forbidden"
+    },
+    {
+      "url": "https://x.com/bourneliu66",
+      "checked_at": "2026-11-04",
+      "status": "access_unavailable",
+      "observation": "Failed to fetch https://x.com/bourneliu66: (403) Forbidden"
+    },
+    {
+      "url": "https://x.com/bozhou_ai",
+      "checked_at": "2026-11-04",
+      "status": "access_unavailable",
+      "observation": "Failed to fetch https://x.com/bozhou_ai: (403) Forbidden"
+    },
+    {
+      "url": "https://x.com/damonchen",
+      "checked_at": "2026-11-04",
+      "status": "access_unavailable",
+      "observation": "Failed to fetch https://x.com/damonchen: (403) Forbidden"
+    },
+    {
+      "url": "https://x.com/dotey",
+      "checked_at": "2026-11-04",
+      "status": "access_unavailable",
+      "observation": "Failed to fetch https://x.com/dotey: (403) Forbidden"
+    },
+    {
+      "url": "https://x.com/gefei55",
+      "checked_at": "2026-11-04",
+      "status": "access_unavailable",
+      "observation": "Failed to fetch https://x.com/gefei55: (403) Forbidden"
+    },
+    {
+      "url": "https://x.com/gkxspace",
+      "checked_at": "2026-11-04",
+      "status": "access_unavailable",
+      "observation": "Failed to fetch https://x.com/gkxspace: (403) Forbidden"
+    },
+    {
+      "url": "https://x.com/indexsy",
+      "checked_at": "2026-11-04",
+      "status": "access_unavailable",
+      "observation": "Failed to fetch https://x.com/indexsy: (403) Forbidden"
+    },
+    {
+      "url": "https://x.com/indie_maker_fox",
+      "checked_at": "2026-11-04",
+      "status": "access_unavailable",
+      "observation": "Failed to fetch https://x.com/indie_maker_fox: (403) Forbidden"
+    },
+    {
+      "url": "https://x.com/lijigang",
+      "checked_at": "2026-11-04",
+      "status": "access_unavailable",
+      "observation": "Failed to fetch https://x.com/lijigang: (403) Forbidden"
+    },
+    {
+      "url": "https://x.com/lxfater",
+      "checked_at": "2026-11-04",
+      "status": "access_unavailable",
+      "observation": "Failed to fetch https://x.com/lxfater: (403) Forbidden"
+    },
+    {
+      "url": "https://x.com/op7418",
+      "checked_at": "2026-11-04",
+      "status": "access_unavailable",
+      "observation": "Failed to fetch https://x.com/op7418: (403) Forbidden"
+    },
+    {
+      "url": "https://x.com/oran_ge/status/2006848798816108582",
+      "checked_at": "2026-11-04",
+      "status": "access_unavailable",
+      "observation": "Failed to fetch https://x.com/oran_ge/status/2006848798816108582: (403) Forbidden"
+    },
+    {
+      "url": "https://x.com/sitinme",
+      "checked_at": "2026-11-04",
+      "status": "access_unavailable",
+      "observation": "Failed to fetch https://x.com/sitinme: (403) Forbidden"
+    },
+    {
+      "url": "https://x.com/tonychuhai",
+      "checked_at": "2026-11-04",
+      "status": "access_unavailable",
+      "observation": "Failed to fetch https://x.com/tonychuhai: (403) Forbidden"
+    },
+    {
+      "url": "https://x.com/utoolai",
+      "checked_at": "2026-11-04",
+      "status": "access_unavailable",
+      "observation": "Failed to fetch https://x.com/utoolai: DisabledError"
+    },
+    {
+      "url": "https://x.com/watreejane",
+      "checked_at": "2026-11-04",
+      "status": "access_unavailable",
+      "observation": "Failed to fetch https://x.com/watreejane: (403) Forbidden"
+    },
+    {
+      "url": "https://x.com/weijunext",
+      "checked_at": "2026-11-04",
+      "status": "access_unavailable",
+      "observation": "Failed to fetch https://x.com/weijunext: (403) Forbidden"
+    },
+    {
+      "url": "https://x.com/yihui_indie",
+      "checked_at": "2026-11-04",
+      "status": "access_unavailable",
+      "observation": "Failed to fetch https://x.com/yihui_indie: (403) Forbidden"
+    },
+    {
+      "url": "https://x.com/yucheng",
+      "checked_at": "2026-11-04",
+      "status": "access_unavailable",
+      "observation": "Failed to fetch https://x.com/yucheng: (403) Forbidden"
+    },
+    {
+      "url": "https://x.com/zstmfhy",
+      "checked_at": "2026-11-04",
+      "status": "access_unavailable",
+      "observation": "Failed to fetch https://x.com/zstmfhy: (403) Forbidden"
+    },
+    {
+      "url": "https://x.yuzong.ai/",
+      "checked_at": "2026-11-04",
+      "status": "readable",
+      "observation": "抓取到正文；可达不代表收入已确认。"
+    },
+    {
+      "url": "https://xnav.laowe.club/influencers",
+      "checked_at": "2026-11-04",
+      "status": "readable",
+      "observation": "抓取到正文；可达不代表收入已确认。"
+    },
+    {
+      "url": "https://xzhishu.com/kol/zstmfhy",
+      "checked_at": "2026-11-04",
+      "status": "access_unavailable",
+      "observation": "Failed to fetch https://xzhishu.com/kol/zstmfhy: (521) Unknown Status Code"
+    },
+    {
+      "url": "https://yuzong.ai/",
+      "checked_at": "2026-11-04",
+      "status": "readable",
+      "observation": "抓取到正文；可达不代表收入已确认。"
+    },
+    {
+      "url": "https://teapawt.net/utoolai/status/2109258014188614089",
+      "status": "readable",
+      "observation": "逐帖缓存显示 2026-10-11 发言；历史公司年营收自述，年度未披露。",
+      "checked_at": "2026-11-04"
+    },
+    {
+      "url": "https://teapawt.net/indexsy/status/2116711901132660947",
+      "status": "readable",
+      "observation": "逐帖缓存显示 2026-11-01 发布的 10 月收入；分项求和比标题少 0.26 美元。原站未复核。",
+      "checked_at": "2026-11-04"
+    },
+    {
+      "url": "https://x.com/indexsy/status/2116711901132660947",
+      "status": "access_unavailable",
+      "observation": "DisabledError；不等于帖子已删除。",
+      "checked_at": "2026-11-04"
+    },
+    {
+      "url": "https://x.com/utoolai/status/2109258014188614089",
+      "status": "access_unavailable",
+      "observation": "DisabledError；不等于帖子已删除。",
+      "checked_at": "2026-11-04"
+    }
+  ],
+  "calculations": [
+    {
+      "claim_id": "jacky-2026-10-mixed",
+      "method": "Decimal 精确小数求和；输入来自逐帖缓存的十项金额",
+      "components_usd": [
+        "92752",
+        "55267.86",
+        "34709",
+        "34008.16",
+        "33484.99",
+        "16675.73",
+        "13856.26",
+        "3144.43",
+        "1800",
+        "1380.15"
+      ],
+      "sum_usd": "287078.58",
+      "headline_usd": "287078.84",
+      "unexplained_difference_usd": "0.26"
+    }
+  ]
+}

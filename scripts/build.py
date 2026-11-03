@@ -100,7 +100,7 @@ def detail(c):
     vals=[('已公开收入',info['label']),('数据区间',info['period']),('统计口径',info['scope']),('X 贡献',info['attribution'])]
     vals.append(('证据等级', c.get('evidenceGrade','D')+' · '+c['stage']))
     facts=''.join(f'<div class="fact"><small>{esc(k)}</small><strong>{esc(v)}</strong></div>' for k,v in vals)
-    sources=''.join(f'<li><a href="{safe_url(s["url"])}" target="_blank" rel="noopener noreferrer">{esc(s["title"])}</a><br><small>{esc(s["type"])} · 核验 {esc(s["checked"])}</small></li>' for s in c['sources'])
+    sources=''.join(f'<li><a href="{safe_url(s["url"])}" target="_blank" rel="noopener noreferrer">{esc(s["title"])}</a><br><small>{esc(s["type"])} · 上次正文检查 {esc(s["checked"])} · {esc(s.get("review_note", ""))}</small></li>' for s in c['sources'])
     desc=c['summary']
     structured={"@context":"https://schema.org","@type":"Article","inLanguage":"zh-CN","headline":f"{c['name']}：中文 X 创作者商业化案例","description":desc,"author":{"@type":"Person","name":"AI 酋长 Andy"},"dateModified":c['updatedAt'],"mainEntityOfPage":CFG['siteUrl']+f'cases/{slug}.html'}
     jsonld=json.dumps(structured,ensure_ascii=False).replace('<','\\u003c')

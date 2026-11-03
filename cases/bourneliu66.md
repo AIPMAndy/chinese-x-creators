@@ -1,6 +1,6 @@
 # 刘小排：AI 产品出海与快速试错
 
-> **证据等级：B｜本人公开自述（未经审计）** · 最后核查：2026-10-31 · [X 主页](https://x.com/bourneliu66)
+> **证据等级：B｜本人公开自述（未经审计）** · 最后核查：2026-11-04 · [X 主页](https://x.com/bourneliu66)
 
 ## 一句话看懂
 
@@ -41,13 +41,14 @@ AI 产品创业者，发布 Raphael AI、AnyVoice 等项目。中文社群影响
 - “超过千万”与“接近千万”来源描述冲突。
 - 不是经过财务审计的个人年净收入。
 - 团队现状也与媒体常用“一人公司”称呼存在时间差。
+- 2026-11-04：InfoQ 正文仍可见接近千万元的说法，视频本次返回 412，超千万标题未获本周重证。
 
 ## 原始来源
 
-1. [程前访谈视频标题：年营收超千万](https://www.bilibili.com/video/BV1WuQJYFEPr/) — 采访标题，核查于 2026-10-31。
-2. [InfoQ：引述本人称 2024 年收入接近千万元](https://www.infoq.cn/article/07MyWmhiocSah2m9EqOt) — 访谈转述，核查于 2026-10-31。
-3. [十字路口对谈：公司规模及业务](https://elsewhere.news/zh/crossing/claude-code-ai) — 本人采访，核查于 2026-10-31。
-4. [X 账号](https://x.com/bourneliu66) — 公开主页，核查于 2026-10-31。
+1. [程前访谈视频标题：年营收超千万](https://www.bilibili.com/video/BV1WuQJYFEPr/) — 采访标题，上次正文检查 2026-10-31。本次访问受限或抓取失败，未确认删除
+2. [InfoQ：引述本人称 2024 年收入接近千万元](https://www.infoq.cn/article/07MyWmhiocSah2m9EqOt) — 访谈转述，上次正文检查 2026-11-04。本次正文可读；不代表独立财务确认
+3. [十字路口对谈：公司规模及业务](https://elsewhere.news/zh/crossing/claude-code-ai) — 本人采访，上次正文检查 2026-11-04。本次正文可读；不代表独立财务确认
+4. [X 账号](https://x.com/bourneliu66) — 公开主页，上次正文检查 2026-10-31。本次访问受限或抓取失败，未确认删除
 
 ---
 

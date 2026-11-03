@@ -1,6 +1,6 @@
 # Blank：SEO 工具与独立开发
 
-> **证据等级：D｜收入未披露 / 待补证** · 最后核查：2026-10-31 · [X 主页](https://x.com/blankwebdev)
+> **证据等级：D｜收入未披露 / 待补证** · 最后核查：2026-11-04 · [X 主页](https://x.com/blankwebdev)
 
 ## 一句话看懂
 
@@ -41,8 +41,8 @@
 
 ## 原始来源
 
-1. [X 独立开发者目录](https://www.jxxy.net/ai/articles/cn-indie-devs-directory/) — 第三方目录，核查于 2026-10-31。
-2. [X 主页](https://x.com/blankwebdev) — 公开主页，核查于 2026-10-31。
+1. [X 独立开发者目录](https://www.jxxy.net/ai/articles/cn-indie-devs-directory/) — 第三方目录，上次正文检查 2026-11-04。本次正文可读；不代表独立财务确认
+2. [X 主页](https://x.com/blankwebdev) — 公开主页，上次正文检查 2026-10-31。本次访问受限或抓取失败，未确认删除
 
 ---
 
