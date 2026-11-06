@@ -39,35 +39,48 @@
     "limitations": [
       "“超过千万”与“接近千万”来源描述冲突。",
       "不是经过财务审计的个人年净收入。",
-      "团队现状也与媒体常用“一人公司”称呼存在时间差。"
+      "团队现状也与媒体常用“一人公司”称呼存在时间差。",
+      "2026-11-04：InfoQ 正文仍可见接近千万元的说法，视频本次返回 412，超千万标题未获本周重证。"
     ],
     "sources": [
       {
         "title": "程前访谈视频标题：年营收超千万",
         "url": "https://www.bilibili.com/video/BV1WuQJYFEPr/",
         "type": "采访标题",
-        "checked": "2026-10-31"
+        "checked": "2026-10-31",
+        "last_attempted_at": "2026-11-04",
+        "access_status": "access_unavailable",
+        "review_note": "本次访问受限或抓取失败，未确认删除"
       },
       {
         "title": "InfoQ：引述本人称 2024 年收入接近千万元",
         "url": "https://www.infoq.cn/article/07MyWmhiocSah2m9EqOt",
         "type": "访谈转述",
-        "checked": "2026-10-31"
+        "checked": "2026-11-04",
+        "last_attempted_at": "2026-11-04",
+        "access_status": "readable",
+        "review_note": "本次正文可读；不代表独立财务确认"
       },
       {
         "title": "十字路口对谈：公司规模及业务",
         "url": "https://elsewhere.news/zh/crossing/claude-code-ai",
         "type": "本人采访",
-        "checked": "2026-10-31"
+        "checked": "2026-11-04",
+        "last_attempted_at": "2026-11-04",
+        "access_status": "readable",
+        "review_note": "本次正文可读；不代表独立财务确认"
       },
       {
         "title": "X 账号",
         "url": "https://x.com/bourneliu66",
         "type": "公开主页",
-        "checked": "2026-10-31"
+        "checked": "2026-10-31",
+        "last_attempted_at": "2026-11-04",
+        "access_status": "access_unavailable",
+        "review_note": "本次访问受限或抓取失败，未确认删除"
       }
     ],
-    "updatedAt": "2026-10-31",
+    "updatedAt": "2026-11-04",
     "readMinutes": 5
   },
   {
@@ -107,23 +120,39 @@
     ],
     "limitations": [
       "没有年份、产品列表、利润或审计材料。",
-      "千万级数字属于原有公司历史经营表现，不能算 X 运营年收入。"
+      "千万级数字属于原有公司历史经营表现，不能算 X 运营年收入。",
+      "本次可读的是第三方逐帖缓存；X 原帖访问受限，不能称为原站本周直接验证。"
     ],
     "sources": [
+      {
+        "title": "2026-10-11 历史营收自述逐帖缓存",
+        "url": "https://teapawt.net/utoolai/status/2109258014188614089",
+        "type": "本人发言第三方缓存；原帖未复核",
+        "checked": "2026-11-04",
+        "last_attempted_at": "2026-11-04",
+        "access_status": "readable",
+        "review_note": "本次正文可读；不代表独立财务确认"
+      },
       {
         "title": "X 公开发帖缓存（10 月 11 日自述）",
         "url": "https://teapawt.net/utoolai",
         "type": "本人发帖转存",
-        "checked": "2026-10-31"
+        "checked": "2026-11-04",
+        "last_attempted_at": "2026-11-04",
+        "access_status": "readable",
+        "review_note": "本次正文可读；不代表独立财务确认"
       },
       {
         "title": "X 主页",
         "url": "https://x.com/utoolai",
         "type": "公开主页",
-        "checked": "2026-10-31"
+        "checked": "2026-10-31",
+        "last_attempted_at": "2026-11-04",
+        "access_status": "access_unavailable",
+        "review_note": "本次访问受限或抓取失败，未确认删除"
       }
     ],
-    "updatedAt": "2026-10-31",
+    "updatedAt": "2026-11-04",
     "readMinutes": 5
   },
   {
@@ -169,22 +198,31 @@
         "title": "2025 年收入本人原帖",
         "url": "https://x.com/DtDt666/status/2007698288347410635",
         "type": "X 原帖",
-        "checked": "2026-10-31"
+        "checked": "2026-10-31",
+        "last_attempted_at": "2026-11-04",
+        "access_status": "access_unavailable",
+        "review_note": "本次访问受限或抓取失败，未确认删除"
       },
       {
         "title": "PANews 报道及原帖关联",
         "url": "https://www.panewslab.com/zh/articles/d38439d0-bafa-49dd-807b-584b09c7017e",
         "type": "媒体转述",
-        "checked": "2026-10-31"
+        "checked": "2026-11-04",
+        "last_attempted_at": "2026-11-04",
+        "access_status": "readable",
+        "review_note": "本次正文可读；不代表独立财务确认"
       },
       {
         "title": "X 账号",
         "url": "https://x.com/DtDt666",
         "type": "公开主页",
-        "checked": "2026-10-31"
+        "checked": "2026-10-31",
+        "last_attempted_at": "2026-11-04",
+        "access_status": "access_unavailable",
+        "review_note": "本次访问受限或抓取失败，未确认删除"
       }
     ],
-    "updatedAt": "2026-10-31",
+    "updatedAt": "2026-11-04",
     "readMinutes": 5
   },
   {
@@ -230,10 +268,13 @@
         "title": "出海去第 48 期访谈",
         "url": "https://www.xiaoyuzhoufm.com/episode/67c07fdc05a90dfd0d4c8ccb",
         "type": "访谈本人自述",
-        "checked": "2026-10-31"
+        "checked": "2026-11-04",
+        "last_attempted_at": "2026-11-04",
+        "access_status": "readable",
+        "review_note": "本次正文可读；不代表独立财务确认"
       }
     ],
-    "updatedAt": "2026-10-31",
+    "updatedAt": "2026-11-04",
     "readMinutes": 5
   },
   {
@@ -281,16 +322,22 @@
         "title": "作者收入复盘（公开转载）",
         "url": "https://haowenji.com/articles/x-2112951083874344961",
         "type": "本人自述",
-        "checked": "2026-10-31"
+        "checked": "2026-11-04",
+        "last_attempted_at": "2026-11-04",
+        "access_status": "readable",
+        "review_note": "本次正文可读；不代表独立财务确认"
       },
       {
         "title": "X 公开主页",
         "url": "https://x.com/bozhou_ai",
         "type": "账号链接",
-        "checked": "2026-10-31"
+        "checked": "2026-10-31",
+        "last_attempted_at": "2026-11-04",
+        "access_status": "access_unavailable",
+        "review_note": "本次访问受限或抓取失败，未确认删除"
       }
     ],
-    "updatedAt": "2026-10-31",
+    "updatedAt": "2026-11-04",
     "readMinutes": 6,
     "tier": "million",
     "evidenceGrade": "B"
@@ -341,22 +388,31 @@
         "title": "鱼总本人起号与变现复盘（授权转载）",
         "url": "https://www.10100.com/article/152577813",
         "type": "本人自述",
-        "checked": "2026-10-31"
+        "checked": "2026-11-04",
+        "last_attempted_at": "2026-11-04",
+        "access_status": "readable",
+        "review_note": "本次正文可读；不代表独立财务确认"
       },
       {
         "title": "作者个人网站",
         "url": "https://yuzong.ai/",
         "type": "本人网站",
-        "checked": "2026-10-31"
+        "checked": "2026-11-04",
+        "last_attempted_at": "2026-11-04",
+        "access_status": "readable",
+        "review_note": "本次正文可读；不代表独立财务确认"
       },
       {
         "title": "X 公开主页",
         "url": "https://x.com/AI_Jasonyu",
         "type": "账号链接",
-        "checked": "2026-10-31"
+        "checked": "2026-10-31",
+        "last_attempted_at": "2026-11-04",
+        "access_status": "access_unavailable",
+        "review_note": "本次访问受限或抓取失败，未确认删除"
       }
     ],
-    "updatedAt": "2026-10-31",
+    "updatedAt": "2026-11-04",
     "readMinutes": 6,
     "tier": "midrange",
     "evidenceGrade": "B"
@@ -402,23 +458,30 @@
     "limitations": [
       "50 万为本人公开叙述，缺少第三方审计；完整收入周期需按原帖再细分。",
       "单月 20 万峰值不可直接乘 12 当作年入 240 万。",
-      "没有支持达到个人年度 1,000 万元的证据。"
+      "没有支持达到个人年度 1,000 万元的证据。",
+      "2026-11-04：动态主页本次未定位 9 月收入帖；50 万元保留为历史自述，当前待补固定原帖或快照。"
     ],
     "sources": [
       {
         "title": "2026 年 9 月 X 公开自述及原帖缓存",
         "url": "https://teapawt.net/gkxspace",
         "type": "本人公开发帖缓存",
-        "checked": "2026-10-31"
+        "checked": "2026-10-31",
+        "last_attempted_at": "2026-11-04",
+        "access_status": "claim_not_located",
+        "review_note": "动态主页可读，但本次未定位原收入帖，保留历史记录待补证"
       },
       {
         "title": "X 主页",
         "url": "https://x.com/gkxspace",
         "type": "公开账号",
-        "checked": "2026-10-31"
+        "checked": "2026-10-31",
+        "last_attempted_at": "2026-11-04",
+        "access_status": "access_unavailable",
+        "review_note": "本次访问受限或抓取失败，未确认删除"
       }
     ],
-    "updatedAt": "2026-10-31",
+    "updatedAt": "2026-11-04",
     "readMinutes": 6
   },
   {
@@ -465,16 +528,22 @@
         "title": "自由指北播客本人访谈",
         "url": "https://www.xiaoyuzhoufm.com/episode/6a5abea0a3fec224d59f51cb",
         "type": "访谈",
-        "checked": "2026-10-31"
+        "checked": "2026-11-04",
+        "last_attempted_at": "2026-11-04",
+        "access_status": "readable",
+        "review_note": "本次正文可读；不代表独立财务确认"
       },
       {
         "title": "X 账号",
         "url": "https://x.com/GoSailGlobal",
         "type": "公开主页",
-        "checked": "2026-10-31"
+        "checked": "2026-10-31",
+        "last_attempted_at": "2026-11-04",
+        "access_status": "access_unavailable",
+        "review_note": "本次访问受限或抓取失败，未确认删除"
       }
     ],
-    "updatedAt": "2026-10-31",
+    "updatedAt": "2026-11-04",
     "readMinutes": 5
   },
   {
@@ -523,16 +592,22 @@
         "title": "GeFei Digital 官网（本人及企业介绍）",
         "url": "https://gefei.net/zh/",
         "type": "本人网站",
-        "checked": "2026-10-31"
+        "checked": "2026-11-04",
+        "last_attempted_at": "2026-11-04",
+        "access_status": "readable",
+        "review_note": "本次正文可读；不代表独立财务确认"
       },
       {
         "title": "X 公开主页",
         "url": "https://x.com/gefei55",
         "type": "账号链接",
-        "checked": "2026-10-31"
+        "checked": "2026-10-31",
+        "last_attempted_at": "2026-11-04",
+        "access_status": "access_unavailable",
+        "review_note": "本次访问受限或抓取失败，未确认删除"
       }
     ],
-    "updatedAt": "2026-10-31",
+    "updatedAt": "2026-11-04",
     "readMinutes": 5,
     "tier": "observation",
     "evidenceGrade": "B"
@@ -581,16 +656,22 @@
         "title": "公开 X 简介缓存",
         "url": "https://teapawt.net/sitinme",
         "type": "本人账号自述",
-        "checked": "2026-10-31"
+        "checked": "2026-11-04",
+        "last_attempted_at": "2026-11-04",
+        "access_status": "readable",
+        "review_note": "本次正文可读；不代表独立财务确认"
       },
       {
         "title": "X 主页",
         "url": "https://x.com/sitinme",
         "type": "公开主页",
-        "checked": "2026-10-31"
+        "checked": "2026-10-31",
+        "last_attempted_at": "2026-11-04",
+        "access_status": "access_unavailable",
+        "review_note": "本次访问受限或抓取失败，未确认删除"
       }
     ],
-    "updatedAt": "2026-10-31",
+    "updatedAt": "2026-11-04",
     "readMinutes": 5
   },
   {
@@ -629,23 +710,30 @@
     ],
     "limitations": [
       "近 30 天营收不等于连续 12 个月稳定营收。",
-      "MRR 和近 30 天流水不能相加或互相替换。"
+      "MRR 和近 30 天流水不能相加或互相替换。",
+      "2026-11-04：TwKit 仅返回加载页；12,037 美元及 MRR 3,918 美元本周无法重证，不升级年度收入。"
     ],
     "sources": [
       {
         "title": "长文榜收录的本人公开数据",
         "url": "https://twkit.io/longform",
         "type": "本人发帖整理",
-        "checked": "2026-10-31"
+        "checked": "2026-10-31",
+        "last_attempted_at": "2026-11-04",
+        "access_status": "content_unavailable",
+        "review_note": "本次仅返回加载页，无法复核收入主张"
       },
       {
         "title": "X 主页",
         "url": "https://x.com/yihui_indie",
         "type": "公开主页",
-        "checked": "2026-10-31"
+        "checked": "2026-10-31",
+        "last_attempted_at": "2026-11-04",
+        "access_status": "access_unavailable",
+        "review_note": "本次访问受限或抓取失败，未确认删除"
       }
     ],
-    "updatedAt": "2026-10-31",
+    "updatedAt": "2026-11-04",
     "readMinutes": 5
   },
   {
@@ -691,16 +779,22 @@
         "title": "增长复盘 X 原帖",
         "url": "https://x.com/JessiCao_JC/status/2113478290661163067",
         "type": "本人公开贴文",
-        "checked": "2026-10-31"
+        "checked": "2026-10-31",
+        "last_attempted_at": "2026-11-04",
+        "access_status": "access_unavailable",
+        "review_note": "本次访问受限或抓取失败，未确认删除"
       },
       {
         "title": "X 账号",
         "url": "https://x.com/JessiCao_JC",
         "type": "公开主页",
-        "checked": "2026-10-31"
+        "checked": "2026-10-31",
+        "last_attempted_at": "2026-11-04",
+        "access_status": "access_unavailable",
+        "review_note": "本次访问受限或抓取失败，未确认删除"
       }
     ],
-    "updatedAt": "2026-10-31",
+    "updatedAt": "2026-11-04",
     "readMinutes": 5
   },
   {
@@ -746,16 +840,22 @@
         "title": "返佣案例对应 X 原帖",
         "url": "https://x.com/oran_ge/status/2006848798816108582",
         "type": "X 原帖",
-        "checked": "2026-10-31"
+        "checked": "2026-10-31",
+        "last_attempted_at": "2026-11-04",
+        "access_status": "access_unavailable",
+        "review_note": "本次访问受限或抓取失败，未确认删除"
       },
       {
         "title": "中文 X 账号资料",
         "url": "https://xnav.laowe.club/influencers",
         "type": "公开目录",
-        "checked": "2026-10-31"
+        "checked": "2026-11-04",
+        "last_attempted_at": "2026-11-04",
+        "access_status": "readable",
+        "review_note": "本次正文可读；不代表独立财务确认"
       }
     ],
-    "updatedAt": "2026-10-31",
+    "updatedAt": "2026-11-04",
     "readMinutes": 5
   },
   {
@@ -802,16 +902,22 @@
         "title": "X 账号数据和时间点",
         "url": "https://sopilot.net/zh/rank/creators/AlanShao111",
         "type": "第三方榜单",
-        "checked": "2026-10-31"
+        "checked": "2026-11-04",
+        "last_attempted_at": "2026-11-04",
+        "access_status": "readable",
+        "review_note": "本次正文可读；不代表独立财务确认"
       },
       {
         "title": "公开 X 主页",
         "url": "https://x.com/AlanShao111",
         "type": "账号链接",
-        "checked": "2026-10-31"
+        "checked": "2026-10-31",
+        "last_attempted_at": "2026-11-04",
+        "access_status": "access_unavailable",
+        "review_note": "本次访问受限或抓取失败，未确认删除"
       }
     ],
-    "updatedAt": "2026-10-31",
+    "updatedAt": "2026-11-04",
     "readMinutes": 5
   },
   {
@@ -857,16 +963,22 @@
         "title": "中文 X 博主目录",
         "url": "https://x.yuzong.ai/",
         "type": "公开目录",
-        "checked": "2026-10-31"
+        "checked": "2026-11-04",
+        "last_attempted_at": "2026-11-04",
+        "access_status": "readable",
+        "review_note": "本次正文可读；不代表独立财务确认"
       },
       {
         "title": "X 主页",
         "url": "https://x.com/dotey",
         "type": "公开主页",
-        "checked": "2026-10-31"
+        "checked": "2026-10-31",
+        "last_attempted_at": "2026-11-04",
+        "access_status": "access_unavailable",
+        "review_note": "本次访问受限或抓取失败，未确认删除"
       }
     ],
-    "updatedAt": "2026-10-31",
+    "updatedAt": "2026-11-04",
     "readMinutes": 5
   },
   {
@@ -912,16 +1024,22 @@
         "title": "中文 X 博主目录",
         "url": "https://x.yuzong.ai/",
         "type": "公开目录",
-        "checked": "2026-10-31"
+        "checked": "2026-11-04",
+        "last_attempted_at": "2026-11-04",
+        "access_status": "readable",
+        "review_note": "本次正文可读；不代表独立财务确认"
       },
       {
         "title": "X 主页",
         "url": "https://x.com/Khazix0918",
         "type": "公开主页",
-        "checked": "2026-10-31"
+        "checked": "2026-10-31",
+        "last_attempted_at": "2026-11-04",
+        "access_status": "access_unavailable",
+        "review_note": "本次访问受限或抓取失败，未确认删除"
       }
     ],
-    "updatedAt": "2026-10-31",
+    "updatedAt": "2026-11-04",
     "readMinutes": 5
   },
   {
@@ -967,16 +1085,22 @@
         "title": "中文 X 博主目录",
         "url": "https://x.yuzong.ai/",
         "type": "公开目录",
-        "checked": "2026-10-31"
+        "checked": "2026-11-04",
+        "last_attempted_at": "2026-11-04",
+        "access_status": "readable",
+        "review_note": "本次正文可读；不代表独立财务确认"
       },
       {
         "title": "X 主页",
         "url": "https://x.com/lijigang",
         "type": "公开主页",
-        "checked": "2026-10-31"
+        "checked": "2026-10-31",
+        "last_attempted_at": "2026-11-04",
+        "access_status": "access_unavailable",
+        "review_note": "本次访问受限或抓取失败，未确认删除"
       }
     ],
-    "updatedAt": "2026-10-31",
+    "updatedAt": "2026-11-04",
     "readMinutes": 5
   },
   {
@@ -1022,16 +1146,22 @@
         "title": "中文 X 博主目录",
         "url": "https://x.yuzong.ai/",
         "type": "公开目录",
-        "checked": "2026-10-31"
+        "checked": "2026-11-04",
+        "last_attempted_at": "2026-11-04",
+        "access_status": "readable",
+        "review_note": "本次正文可读；不代表独立财务确认"
       },
       {
         "title": "X 账号",
         "url": "https://x.com/lxfater",
         "type": "公开主页",
-        "checked": "2026-10-31"
+        "checked": "2026-10-31",
+        "last_attempted_at": "2026-11-04",
+        "access_status": "access_unavailable",
+        "review_note": "本次访问受限或抓取失败，未确认删除"
       }
     ],
-    "updatedAt": "2026-10-31",
+    "updatedAt": "2026-11-04",
     "readMinutes": 5
   },
   {
@@ -1077,16 +1207,22 @@
         "title": "中文 X 名单",
         "url": "https://xnav.laowe.club/influencers",
         "type": "公开目录",
-        "checked": "2026-10-31"
+        "checked": "2026-11-04",
+        "last_attempted_at": "2026-11-04",
+        "access_status": "readable",
+        "review_note": "本次正文可读；不代表独立财务确认"
       },
       {
         "title": "X 主页",
         "url": "https://x.com/op7418",
         "type": "公开主页",
-        "checked": "2026-10-31"
+        "checked": "2026-10-31",
+        "last_attempted_at": "2026-11-04",
+        "access_status": "access_unavailable",
+        "review_note": "本次访问受限或抓取失败，未确认删除"
       }
     ],
-    "updatedAt": "2026-10-31",
+    "updatedAt": "2026-11-04",
     "readMinutes": 5
   },
   {
@@ -1132,16 +1268,22 @@
         "title": "X 独立开发者目录",
         "url": "https://www.jxxy.net/ai/articles/cn-indie-devs-directory/",
         "type": "第三方目录",
-        "checked": "2026-10-31"
+        "checked": "2026-11-04",
+        "last_attempted_at": "2026-11-04",
+        "access_status": "readable",
+        "review_note": "本次正文可读；不代表独立财务确认"
       },
       {
         "title": "X 主页",
         "url": "https://x.com/watreejane",
         "type": "公开主页",
-        "checked": "2026-10-31"
+        "checked": "2026-10-31",
+        "last_attempted_at": "2026-11-04",
+        "access_status": "access_unavailable",
+        "review_note": "本次访问受限或抓取失败，未确认删除"
       }
     ],
-    "updatedAt": "2026-10-31",
+    "updatedAt": "2026-11-04",
     "readMinutes": 5
   },
   {
@@ -1187,16 +1329,22 @@
         "title": "X 独立开发者目录",
         "url": "https://www.jxxy.net/ai/articles/cn-indie-devs-directory/",
         "type": "第三方目录",
-        "checked": "2026-10-31"
+        "checked": "2026-11-04",
+        "last_attempted_at": "2026-11-04",
+        "access_status": "readable",
+        "review_note": "本次正文可读；不代表独立财务确认"
       },
       {
         "title": "X 主页",
         "url": "https://x.com/blankwebdev",
         "type": "公开主页",
-        "checked": "2026-10-31"
+        "checked": "2026-10-31",
+        "last_attempted_at": "2026-11-04",
+        "access_status": "access_unavailable",
+        "review_note": "本次访问受限或抓取失败，未确认删除"
       }
     ],
-    "updatedAt": "2026-10-31",
+    "updatedAt": "2026-11-04",
     "readMinutes": 5
   },
   {
@@ -1242,16 +1390,22 @@
         "title": "中文 X 技术博主目录",
         "url": "https://www.jxxy.net/ai/articles/72-chinese-x-bloggers/",
         "type": "第三方目录",
-        "checked": "2026-10-31"
+        "checked": "2026-11-04",
+        "last_attempted_at": "2026-11-04",
+        "access_status": "readable",
+        "review_note": "本次正文可读；不代表独立财务确认"
       },
       {
         "title": "X 账号",
         "url": "https://x.com/weijunext",
         "type": "公开主页",
-        "checked": "2026-10-31"
+        "checked": "2026-10-31",
+        "last_attempted_at": "2026-11-04",
+        "access_status": "access_unavailable",
+        "review_note": "本次访问受限或抓取失败，未确认删除"
       }
     ],
-    "updatedAt": "2026-10-31",
+    "updatedAt": "2026-11-04",
     "readMinutes": 5
   },
   {
@@ -1297,16 +1451,22 @@
         "title": "中文 X 博主榜",
         "url": "https://x.yuzong.ai/",
         "type": "第三方目录",
-        "checked": "2026-10-31"
+        "checked": "2026-11-04",
+        "last_attempted_at": "2026-11-04",
+        "access_status": "readable",
+        "review_note": "本次正文可读；不代表独立财务确认"
       },
       {
         "title": "X 账号",
         "url": "https://x.com/tonychuhai",
         "type": "公开主页",
-        "checked": "2026-10-31"
+        "checked": "2026-10-31",
+        "last_attempted_at": "2026-11-04",
+        "access_status": "access_unavailable",
+        "review_note": "本次访问受限或抓取失败，未确认删除"
       }
     ],
-    "updatedAt": "2026-10-31",
+    "updatedAt": "2026-11-04",
     "readMinutes": 5
   },
   {
@@ -1352,16 +1512,22 @@
         "title": "中文 X 博主榜",
         "url": "https://x.yuzong.ai/",
         "type": "第三方目录",
-        "checked": "2026-10-31"
+        "checked": "2026-11-04",
+        "last_attempted_at": "2026-11-04",
+        "access_status": "readable",
+        "review_note": "本次正文可读；不代表独立财务确认"
       },
       {
         "title": "X 账号",
         "url": "https://x.com/AI_jacksaku",
         "type": "公开主页",
-        "checked": "2026-10-31"
+        "checked": "2026-10-31",
+        "last_attempted_at": "2026-11-04",
+        "access_status": "access_unavailable",
+        "review_note": "本次访问受限或抓取失败，未确认删除"
       }
     ],
-    "updatedAt": "2026-10-31",
+    "updatedAt": "2026-11-04",
     "readMinutes": 5
   },
   {
@@ -1407,16 +1573,22 @@
         "title": "中文 X 博主榜",
         "url": "https://x.yuzong.ai/",
         "type": "第三方目录",
-        "checked": "2026-10-31"
+        "checked": "2026-11-04",
+        "last_attempted_at": "2026-11-04",
+        "access_status": "readable",
+        "review_note": "本次正文可读；不代表独立财务确认"
       },
       {
         "title": "X 主页",
         "url": "https://x.com/yucheng",
         "type": "公开主页",
-        "checked": "2026-10-31"
+        "checked": "2026-10-31",
+        "last_attempted_at": "2026-11-04",
+        "access_status": "access_unavailable",
+        "review_note": "本次访问受限或抓取失败，未确认删除"
       }
     ],
-    "updatedAt": "2026-10-31",
+    "updatedAt": "2026-11-04",
     "readMinutes": 5
   },
   {
@@ -1462,16 +1634,22 @@
         "title": "72 个中文 X 账号目录",
         "url": "https://www.jxxy.net/ai/articles/72-chinese-x-bloggers/",
         "type": "第三方目录",
-        "checked": "2026-10-31"
+        "checked": "2026-11-04",
+        "last_attempted_at": "2026-11-04",
+        "access_status": "readable",
+        "review_note": "本次正文可读；不代表独立财务确认"
       },
       {
         "title": "X 账号",
         "url": "https://x.com/indie_maker_fox",
         "type": "公开主页",
-        "checked": "2026-10-31"
+        "checked": "2026-10-31",
+        "last_attempted_at": "2026-11-04",
+        "access_status": "access_unavailable",
+        "review_note": "本次访问受限或抓取失败，未确认删除"
       }
     ],
-    "updatedAt": "2026-10-31",
+    "updatedAt": "2026-11-04",
     "readMinutes": 5
   },
   {
@@ -1515,16 +1693,22 @@
         "title": "公开账号资料与简介",
         "url": "https://xzhishu.com/kol/zstmfhy",
         "type": "第三方资料",
-        "checked": "2026-10-31"
+        "checked": "2026-10-31",
+        "last_attempted_at": "2026-11-04",
+        "access_status": "access_unavailable",
+        "review_note": "本次访问受限或抓取失败，未确认删除"
       },
       {
         "title": "X 公开主页",
         "url": "https://x.com/zstmfhy",
         "type": "账号链接",
-        "checked": "2026-10-31"
+        "checked": "2026-10-31",
+        "last_attempted_at": "2026-11-04",
+        "access_status": "access_unavailable",
+        "review_note": "本次访问受限或抓取失败，未确认删除"
       }
     ],
-    "updatedAt": "2026-10-31",
+    "updatedAt": "2026-11-04",
     "readMinutes": 3,
     "tier": "observation",
     "evidenceGrade": "D"
@@ -1559,7 +1743,8 @@
     "insights": [
       "自然年度收入与 MRR、累计历史流水分开统计，三者不能相加。",
       "机构服务积累客户需求后，适合选择高重复工作的 SaaS 化环节。",
-      "公开经营数据能增加信任，但不证明某一渠道贡献了全部交易。"
+      "公开经营数据能增加信任，但不证明某一渠道贡献了全部交易。",
+      "11 月 1 日的逐帖缓存披露 10 月收入 287,078.84 美元；这是混合月度收入自述，不能年化为全年事实。"
     ],
     "actions": [
       "选一个明确行业，用公开业务问题整理需求与定价。",
@@ -1569,35 +1754,67 @@
     "limitations": [
       "收入为创始人自述，非独立审计后的净利润。",
       "TrustMRR 验证的是部分产品的特定历史及实时指标，不直接核验 2025 全部营收。",
-      "主要经营和表达渠道属于海外英文圈，不作为中文 X 主榜成功案例。"
+      "主要经营和表达渠道属于海外英文圈，不作为中文 X 主榜成功案例。",
+      "10 月帖列出的十项金额合计 287,078.58 美元，比标题少 0.26 美元，差异原因未确认；不擅自修正原主张。",
+      "反事实：若移除 X，SEO、服务、联盟和短租仍可能带来收入；缺少渠道对照，不能把总收入归因于 X。"
     ],
     "sources": [
+      {
+        "title": "创始人官网：2025 年组合营收披露",
+        "url": "https://jackychou.com/",
+        "type": "本人官网，未标发布日期",
+        "checked": "2026-11-04",
+        "last_attempted_at": "2026-11-04",
+        "access_status": "readable",
+        "review_note": "本次正文可读；不代表独立财务确认"
+      },
       {
         "title": "2025 年 292 万美元收入主张与商业信息",
         "url": "https://indiemakerlist.com/p/jacky-chou/",
         "type": "第三方整理，标记本人自述",
-        "checked": "2026-10-31"
+        "checked": "2026-11-04",
+        "last_attempted_at": "2026-11-04",
+        "access_status": "readable",
+        "review_note": "本次正文可读；不代表独立财务确认"
       },
       {
         "title": "创始人公开收入项目",
         "url": "https://jackychou.com/open/",
         "type": "本人公开经营资料（逐月详情有邮件门槛）",
-        "checked": "2026-10-31"
+        "checked": "2026-10-31",
+        "last_attempted_at": "2026-11-04",
+        "access_status": "partial_email_gate",
+        "review_note": "需邮箱解锁，月度账本本次未取得"
       },
       {
         "title": "TrustMRR：部分产品由支付提供商核验的实时 / 累计数字",
         "url": "https://trustmrr.com/founder/indexsy",
         "type": "部分支付流水验证，不是年度审计",
-        "checked": "2026-10-31"
+        "checked": "2026-11-04",
+        "last_attempted_at": "2026-11-04",
+        "access_status": "readable",
+        "review_note": "本次正文可读；不代表独立财务确认"
       },
       {
         "title": "X 主页",
         "url": "https://x.com/indexsy",
         "type": "官方账号",
-        "checked": "2026-10-31"
+        "checked": "2026-10-31",
+        "last_attempted_at": "2026-11-04",
+        "access_status": "access_unavailable",
+        "review_note": "本次访问受限或抓取失败，未确认删除"
+      },
+      {
+        "title": "2026-11-01 的 10 月收入逐帖缓存",
+        "url": "https://teapawt.net/indexsy/status/2116711901132660947",
+        "type": "第三方缓存；X 原帖本次无法读取",
+        "checked": "2026-11-04",
+        "last_attempted_at": "2026-11-04",
+        "access_status": "readable",
+        "review_note": "本次正文可读；不代表独立财务确认"
       }
     ],
-    "updatedAt": "2026-10-31",
+    "updatedAt": "2026-11-04",
     "readMinutes": 7
   },
   {
@@ -1630,7 +1847,8 @@
     "insights": [
       "ARR=当前经常性订阅收入年化速率，不能作为某个自然年度的实际营业收入。",
       "面向产品经理的 B2B 工具可以把用户交付成果变成自然展示入口。",
-      "早期 X 帖子可带来种子客户，但后期增长通常是多渠道组合。"
+      "早期 X 帖子可带来种子客户，但后期增长通常是多渠道组合。",
+      "原访谈记录一位客户从推文进入并购买最高档套餐，支持早期个案获客；不能推出 X 的总收入占比。"
     ],
     "actions": [
       "识别你的工具是否可以自然展示品牌且不损伤用户体验。",
@@ -1640,35 +1858,48 @@
     "limitations": [
       "130 万美元 ARR 不是已实现年度收入，更非个人年收入。",
       "第三方列表出现旧 Handle @damengchen；当前资料列 @damonchen，二者需持续核对。",
-      "海外英文内容生态与中文账号的流量、商业化条件不同。"
+      "海外英文内容生态与中文账号的流量、商业化条件不同。",
+      "二手索引将 130 万美元 ARR 标为 2024；所链原访谈日期是 2023-11-29。本库保留原始年份，未新增 2024 年度收入。"
     ],
     "sources": [
       {
         "title": "Peter Yang 与本人访谈：约 130 万美元 ARR（2023）",
         "url": "https://creatoreconomy.so/p/damon-chen-engineer-to-one-million",
         "type": "本人访谈原始内容",
-        "checked": "2026-10-31"
+        "checked": "2026-11-04",
+        "last_attempted_at": "2026-11-04",
+        "access_status": "partial_paywall",
+        "review_note": "公开部分可读；后续付费章节未读取"
       },
       {
         "title": "IndieMakerList：Damon Chen 公开商业资料",
         "url": "https://indiemakerlist.com/p/damon-chen/",
         "type": "第三方索引（自述收入）",
-        "checked": "2026-10-31"
+        "checked": "2026-11-04",
+        "last_attempted_at": "2026-11-04",
+        "access_status": "readable",
+        "review_note": "本次正文可读；不代表独立财务确认"
       },
       {
         "title": "本人 LinkedIn：两款产品合计 100 万美元 ARR 里程碑",
         "url": "https://www.linkedin.com/posts/damengchen_testimonial-the-easiest-way-to-collect-activity-7103202308137652224-9k8o",
         "type": "本人公开声明",
-        "checked": "2026-10-31"
+        "checked": "2026-11-04",
+        "last_attempted_at": "2026-11-04",
+        "access_status": "readable",
+        "review_note": "本次正文可读；不代表独立财务确认"
       },
       {
         "title": "X 当前账号链接",
         "url": "https://x.com/damonchen",
         "type": "账号身份待持续核验",
-        "checked": "2026-10-31"
+        "checked": "2026-10-31",
+        "last_attempted_at": "2026-11-04",
+        "access_status": "access_unavailable",
+        "review_note": "本次访问受限或抓取失败，未确认删除"
       }
     ],
-    "updatedAt": "2026-10-31",
+    "updatedAt": "2026-11-04",
     "readMinutes": 6
   }
 ]

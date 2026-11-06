@@ -12,7 +12,7 @@ def bullets(items):
 for c in items:
     r=c['revenue']
     level=c.get('evidenceGrade','D')+'｜'+('本人公开自述（未经审计）' if c.get('evidenceGrade')=='B' else ('第三方转述或身份待核' if c.get('evidenceGrade')=='C' else '收入未披露 / 待补证'))
-    src='\n'.join(f'{idx}. [{s["title"]}]({s["url"]}) — {s["type"]}，核查于 {s["checked"]}。' for idx,s in enumerate(c['sources'],1))
+    src='\n'.join(f'{idx}. [{s["title"]}]({s["url"]}) — {s["type"]}，上次正文检查 {s["checked"]}。{s.get("review_note", "")}' for idx,s in enumerate(c['sources'],1))
     content=f'''# {c['name']}：{c['focus']}
 
 > **证据等级：{level}** · 最后核查：{c['updatedAt']} · {('[X 主页](https://x.com/'+c['handle']+')') if c.get('handle') else 'X 账号身份待核实'}

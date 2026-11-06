@@ -1,6 +1,6 @@
 # Damon Chen：Testimonial.to 与 PDF.ai 订阅产品增长
 
-> **证据等级：B｜本人公开自述（未经审计）** · 最后核查：2026-10-31 · [X 主页](https://x.com/damonchen)
+> **证据等级：B｜本人公开自述（未经审计）** · 最后核查：2026-11-04 · [X 主页](https://x.com/damonchen)
 
 ## 一句话看懂
 
@@ -29,6 +29,7 @@
 - ARR=当前经常性订阅收入年化速率，不能作为某个自然年度的实际营业收入。
 - 面向产品经理的 B2B 工具可以把用户交付成果变成自然展示入口。
 - 早期 X 帖子可带来种子客户，但后期增长通常是多渠道组合。
+- 原访谈记录一位客户从推文进入并购买最高档套餐，支持早期个案获客；不能推出 X 的总收入占比。
 
 ## 普通人可以实践的动作
 
@@ -41,13 +42,14 @@
 - 130 万美元 ARR 不是已实现年度收入，更非个人年收入。
 - 第三方列表出现旧 Handle @damengchen；当前资料列 @damonchen，二者需持续核对。
 - 海外英文内容生态与中文账号的流量、商业化条件不同。
+- 二手索引将 130 万美元 ARR 标为 2024；所链原访谈日期是 2023-11-29。本库保留原始年份，未新增 2024 年度收入。
 
 ## 原始来源
 
-1. [Peter Yang 与本人访谈：约 130 万美元 ARR（2023）](https://creatoreconomy.so/p/damon-chen-engineer-to-one-million) — 本人访谈原始内容，核查于 2026-10-31。
-2. [IndieMakerList：Damon Chen 公开商业资料](https://indiemakerlist.com/p/damon-chen/) — 第三方索引（自述收入），核查于 2026-10-31。
-3. [本人 LinkedIn：两款产品合计 100 万美元 ARR 里程碑](https://www.linkedin.com/posts/damengchen_testimonial-the-easiest-way-to-collect-activity-7103202308137652224-9k8o) — 本人公开声明，核查于 2026-10-31。
-4. [X 当前账号链接](https://x.com/damonchen) — 账号身份待持续核验，核查于 2026-10-31。
+1. [Peter Yang 与本人访谈：约 130 万美元 ARR（2023）](https://creatoreconomy.so/p/damon-chen-engineer-to-one-million) — 本人访谈原始内容，上次正文检查 2026-11-04。公开部分可读；后续付费章节未读取
+2. [IndieMakerList：Damon Chen 公开商业资料](https://indiemakerlist.com/p/damon-chen/) — 第三方索引（自述收入），上次正文检查 2026-11-04。本次正文可读；不代表独立财务确认
+3. [本人 LinkedIn：两款产品合计 100 万美元 ARR 里程碑](https://www.linkedin.com/posts/damengchen_testimonial-the-easiest-way-to-collect-activity-7103202308137652224-9k8o) — 本人公开声明，上次正文检查 2026-11-04。本次正文可读；不代表独立财务确认
+4. [X 当前账号链接](https://x.com/damonchen) — 账号身份待持续核验，上次正文检查 2026-10-31。本次访问受限或抓取失败，未确认删除
 
 ---
 

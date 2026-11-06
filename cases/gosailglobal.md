@@ -1,6 +1,6 @@
 # Jason Zhu / GoSailGlobal：AI 内容与出海 MCN
 
-> **证据等级：B｜本人公开自述（未经审计）** · 最后核查：2026-10-31 · [X 主页](https://x.com/GoSailGlobal)
+> **证据等级：B｜本人公开自述（未经审计）** · 最后核查：2026-11-04 · [X 主页](https://x.com/GoSailGlobal)
 
 ## 一句话看懂
 
@@ -41,8 +41,8 @@
 
 ## 原始来源
 
-1. [自由指北播客本人访谈](https://www.xiaoyuzhoufm.com/episode/6a5abea0a3fec224d59f51cb) — 访谈，核查于 2026-10-31。
-2. [X 账号](https://x.com/GoSailGlobal) — 公开主页，核查于 2026-10-31。
+1. [自由指北播客本人访谈](https://www.xiaoyuzhoufm.com/episode/6a5abea0a3fec224d59f51cb) — 访谈，上次正文检查 2026-11-04。本次正文可读；不代表独立财务确认
+2. [X 账号](https://x.com/GoSailGlobal) — 公开主页，上次正文检查 2026-10-31。本次访问受限或抓取失败，未确认删除
 
 ---
 
